@@ -1,22 +1,21 @@
-from confluent_kafka import Consumer, KafkaException
+from confluent_kafka import Consumer
 import json
 import logging
-from neo4j import GraphDatabase
+from py2neo import Graph
 
 # Configurer les logs
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# Define correct URI and AUTH arguments (no AUTH by default)
-URI = "bolt://localhost:7687"
-AUTH = ("", "")
- 
-try:
-    with GraphDatabase.driver(URI, auth=AUTH) as client:
-    # Check the connection
-        if client.verify_connectivity():
-            print("Connexion établie avec succès !")
+# Établir la connexion à Memgraph
+uri = "bolt://localhost:7687"
+username = "Fidelis"
+password = "admin"
+graph = None
 
+try:
+    graph = Graph(uri, auth=(username, password))
+    logger.info("Connexion à Memgraph établie !")
 
     def transformer_donnees(message):
         try:
@@ -58,15 +57,9 @@ try:
                 MERGE (user)-[r:RATED]->(movie)
                 SET r.rating = toInteger(data.rating), r.timestamp = toInteger(data.timestamp)
             """
-            client.execute_query(
-                query,
-                
-                database_="memgraph"
-            )
 
-            with client.session(database="memgraph") as session:
-                # Exécution de la requête avec les données transformées
-                session.run(query, data=data)
+            # Exécuter la requête avec les données transformées
+            graph.run(query, data=data)
             logger.info(f"{data} inséré avec succès dans Memgraph !")
 
         except Exception as e:
@@ -90,7 +83,7 @@ try:
         try:
             logger.info(f"Kafka Consumer Configuration: {consumer_config}")
             while True:
-                msg = consumer.poll(5.0)  # Consommer les messages, attendre 5 secondes pour de nouveaux messages
+                msg = consumer.poll(5.0)  # Consommer les messages, attendre jusqu'à 5 secondes pour de nouveaux messages
 
                 if msg is None:
                     logger.info("Aucun nouveau message reçu. Sortie.")
@@ -111,8 +104,6 @@ try:
 
         except KeyboardInterrupt:
             logger.info("Arrêt du consommateur Kafka")
-        except KafkaException as kafka_exception:
-            logger.error(f"Erreur de connexion à Kafka : {kafka_exception}")
         except Exception as e:
             logger.error(f"Une erreur inattendue est survenue : {e}")
         finally:
@@ -122,8 +113,10 @@ try:
     kafka_consumer()
 
 except Exception as e:
-    logger.error(f"Une erreur inattendue est survenue lors de la connexion : {e}")
+    logger.error(f"Une erreur est survenue lors de la connexion à Memgraph : {e}")
+
 finally:
-    if client is not None:
-        client.close()
+    # Fermeture de la connexion à Memgraph
+    if graph is not None:
+        graph.close()
         logger.info("Connexion à Memgraph fermée.")
