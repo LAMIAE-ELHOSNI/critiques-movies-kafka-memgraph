@@ -60,13 +60,13 @@ try:
             """
             client.execute_query(
                 query,
-                {"data": data},
+                
                 database_="memgraph"
             )
 
-            # with client.session(database="memgraph") as session:
-            #     # Exécution de la requête avec les données transformées
-            #     session.run(query, data=data)
+            with client.session(database="memgraph") as session:
+                # Exécution de la requête avec les données transformées
+                session.run(query, data=data)
             logger.info(f"{data} inséré avec succès dans Memgraph !")
 
         except Exception as e:
@@ -76,7 +76,7 @@ try:
         # Configuration du consommateur Kafka
         consumer_config = {
             'bootstrap.servers': 'localhost:9092',  # Adresse du broker Kafka
-            'group.id': 'my_group',  # ID du groupe de consommateurs
+            'group.id': 'my-group',  # ID du groupe de consommateurs
             'auto.offset.reset': 'earliest'  # Commencer à consommer depuis le début du topic
         }
 
