@@ -1,0 +1,1476 @@
+2023-11-26 16:10:54,381 - WARNING -  * Debugger is active!
+2023-11-26 16:10:54,385 - INFO -  * Debugger PIN: 604-720-443
+2023-11-26 16:11:03,135 - INFO - API execution started.
+2023-11-26 16:11:03,285 - INFO - Data files read successfully.
+2023-11-26 16:11:03,486 - INFO - API execution completed.
+2023-11-26 16:11:03,516 - INFO - 127.0.0.1 - - [26/Nov/2023 16:11:03] "GET /movie_data HTTP/1.1" 200 -
+2023-11-26 16:11:05,519 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "242", "title": "Kolya (1996)", "genres": ["Comedy"]}, "rating": "3", "timestamp": "881250949"}
+
+2023-11-26 16:11:07,523 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "257", "title": "Men in Black (1997)", "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"]}, "rating": "2", "timestamp": "881251577"}
+
+2023-11-26 16:11:09,526 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "111", "title": "Truth About Cats & Dogs, The (1996)", "genres": ["Comedy", "Romance"]}, "rating": "4", "timestamp": "881251793"}
+
+2023-11-26 16:11:11,529 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "25", "title": "Birdcage, The (1996)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "881251955"}
+
+2023-11-26 16:11:13,532 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "382", "title": "Adventures of Priscilla, Queen of the Desert, The (1994)", "genres": ["Comedy", "Drama"]}, "rating": "4", "timestamp": "881251843"}
+
+2023-11-26 16:11:15,535 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "202", "title": "Groundhog Day (1993)", "genres": ["Comedy", "Romance"]}, "rating": "3", "timestamp": "881251728"}
+
+2023-11-26 16:11:17,538 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "153", "title": "Fish Called Wanda, A (1988)", "genres": ["Comedy"]}, "rating": "5", "timestamp": "881251820"}
+
+2023-11-26 16:11:19,541 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "286", "title": "English Patient, The (1996)", "genres": ["Drama", "Romance", "War"]}, "rating": "5", "timestamp": "881250949"}
+
+2023-11-26 16:11:21,544 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "66", "title": "While You Were Sleeping (1995)", "genres": ["Comedy", "Romance"]}, "rating": "3", "timestamp": "881251911"}
+
+2023-11-26 16:11:23,548 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "845", "title": "That Thing You Do! (1996)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "881251954"}
+
+2023-11-26 16:11:25,551 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "173", "title": "Princess Bride, The (1987)", "genres": ["Action", "Adventure", "Comedy", "Romance"]}, "rating": "2", "timestamp": "881251820"}
+
+2023-11-26 16:11:27,556 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "238", "title": "Raising Arizona (1987)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "881251820"}
+
+2023-11-26 16:11:29,559 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "94", "title": "Home Alone (1990)", "genres": ["Children", "Comedy"]}, "rating": "3", "timestamp": "881252172"}
+
+2023-11-26 16:11:31,563 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "762", "title": "Beautiful Girls (1996)", "genres": ["Drama"]}, "rating": "3", "timestamp": "881251955"}
+
+2023-11-26 16:11:33,567 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "381", "title": "Muriel's Wedding (1994)", "genres": ["Comedy", "Romance"]}, "rating": "4", "timestamp": "881251728"}
+
+2023-11-26 16:11:35,570 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "306", "title": "Mrs. Brown (Her Majesty, Mrs. Brown) (1997)", "genres": ["Drama", "Romance"]}, "rating": "4", "timestamp": "881251021"}
+
+2023-11-26 16:11:37,573 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "8", "title": "Babe (1995)", "genres": ["Children", "Comedy", "Drama"]}, "rating": "5", "timestamp": "881251753"}
+
+2023-11-26 16:11:39,576 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "70", "title": "Four Weddings and a Funeral (1994)", "genres": ["Comedy", "Romance"]}, "rating": "3", "timestamp": "881251842"}
+
+2023-11-26 16:11:41,580 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "655", "title": "Stand by Me (1986)", "genres": ["Adventure", "Comedy", "Drama"]}, "rating": "5", "timestamp": "881251793"}
+
+2023-11-26 16:11:43,584 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "13", "title": "Mighty Aphrodite (1995)", "genres": ["Comedy"]}, "rating": "2", "timestamp": "881251955"}
+
+2023-11-26 16:11:45,587 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "692", "title": "American President, The (1995)", "genres": ["Comedy", "Drama", "Romance"]}, "rating": "5", "timestamp": "881252017"}
+
+2023-11-26 16:11:47,591 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "1022", "title": "Fast, Cheap & Out of Control (1997)", "genres": ["Documentary"]}, "rating": "4", "timestamp": "881251143"}
+
+2023-11-26 16:11:49,597 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "287", "title": "Marvin's Room (1996)", "genres": ["Drama"]}, "rating": "3", "timestamp": "881251884"}
+
+2023-11-26 16:11:51,601 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "269", "title": "Full Monty, The (1997)", "genres": ["Comedy"]}, "rating": "3", "timestamp": "881250949"}
+
+2023-11-26 16:11:53,604 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "285", "title": "Secrets & Lies (1996)", "genres": ["Drama"]}, "rating": "5", "timestamp": "881251753"}
+
+2023-11-26 16:11:55,608 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "110", "title": "Operation Dumbo Drop (1995)", "genres": ["Action", "Adventure", "Comedy", "War"]}, "rating": "1", "timestamp": "881252305"}
+
+2023-11-26 16:11:57,612 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "251", "title": "Shall We Dance? (1996)", "genres": ["Comedy"]}, "rating": "3", "timestamp": "881251274"}
+
+2023-11-26 16:11:59,615 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "393", "title": "Mrs. Doubtfire (1993)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "881251863"}
+
+2023-11-26 16:12:01,618 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "663", "title": "Being There (1979)", "genres": ["Comedy"]}, "rating": "5", "timestamp": "881251911"}
+
+2023-11-26 16:12:03,621 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "580", "title": "Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995)", "genres": ["Comedy", "Romance"]}, "rating": "2", "timestamp": "881252056"}
+
+2023-11-26 16:12:05,625 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "428", "title": "Harold and Maude (1971)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "881251702"}
+
+2023-11-26 16:12:07,634 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "411", "title": "Nutty Professor, The (1996)", "genres": ["Comedy", "Fantasy", "Romance", "Sci-Fi"]}, "rating": "4", "timestamp": "881252090"}
+
+2023-11-26 16:12:09,638 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "116", "title": "Cold Comfort Farm (1995)", "genres": ["Comedy"]}, "rating": "3", "timestamp": "881251753"}
+
+2023-11-26 16:12:11,641 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "1007", "title": "Waiting for Guffman (1996)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "881251601"}
+
+2023-11-26 16:12:13,645 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "340", "title": "Boogie Nights (1997)", "genres": ["Drama"]}, "rating": "3", "timestamp": "881251045"}
+
+2023-11-26 16:12:15,648 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "67", "title": "Ace Ventura: Pet Detective (1994)", "genres": ["Comedy"]}, "rating": "5", "timestamp": "881252017"}
+
+2023-11-26 16:12:17,649 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "1118", "title": "Up in Smoke (1978)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "881252128"}
+
+2023-11-26 16:12:19,653 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "108", "title": "Kids in the Hall: Brain Candy (1996)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "881252110"}
+
+2023-11-26 16:12:21,656 - INFO - Returned message: {"userId": "196", "movie": {"movieId": "1241", "title": "Van, The (1996)", "genres": ["Comedy", "Drama"]}, "rating": "3", "timestamp": "881251642"}
+
+2023-11-26 16:12:23,659 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "242", "title": "Kolya (1996)", "genres": ["Comedy"]}, "rating": "3", "timestamp": "875747190"}
+
+2023-11-26 16:12:25,663 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "302", "title": "L.A. Confidential (1997)", "genres": ["Crime", "Film-Noir", "Mystery", "Thriller"]}, "rating": "3", "timestamp": "875746809"}
+
+2023-11-26 16:12:27,666 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "257", "title": "Men in Black (1997)", "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"]}, "rating": "3", "timestamp": "875747342"}
+
+2023-11-26 16:12:29,668 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "222", "title": "Star Trek: First Contact (1996)", "genres": ["Action", "Adventure", "Sci-Fi"]}, "rating": "3", "timestamp": "875747635"}
+
+2023-11-26 16:12:31,672 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "1", "title": "Toy Story (1995)", "genres": ["Animation", "Children", "Comedy"]}, "rating": "3", "timestamp": "875747368"}
+
+2023-11-26 16:12:33,676 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "546", "title": "Broken Arrow (1996)", "genres": ["Action", "Thriller"]}, "rating": "2", "timestamp": "875747789"}
+
+2023-11-26 16:12:35,679 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "277", "title": "Restoration (1995)", "genres": ["Drama"]}, "rating": "4", "timestamp": "875747401"}
+
+2023-11-26 16:12:37,682 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "246", "title": "Chasing Amy (1997)", "genres": ["Drama", "Romance"]}, "rating": "3", "timestamp": "875747514"}
+
+2023-11-26 16:12:39,685 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "979", "title": "Trigger Effect, The (1996)", "genres": ["Drama", "Thriller"]}, "rating": "3", "timestamp": "875748068"}
+
+2023-11-26 16:12:41,688 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "1137", "title": "Beautiful Thing (1996)", "genres": ["Drama", "Romance"]}, "rating": "5", "timestamp": "875747556"}
+
+2023-11-26 16:12:43,696 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "100", "title": "Fargo (1996)", "genres": ["Crime", "Drama", "Thriller"]}, "rating": "5", "timestamp": "875747319"}
+
+2023-11-26 16:12:45,698 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "322", "title": "Murder at 1600 (1997)", "genres": ["Mystery", "Thriller"]}, "rating": "2", "timestamp": "875746986"}
+
+2023-11-26 16:12:47,702 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "181", "title": "Return of the Jedi (1983)", "genres": ["Action", "Adventure", "Romance", "Sci-Fi", "War"]}, "rating": "3", "timestamp": "875747556"}
+
+2023-11-26 16:12:49,707 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "20", "title": "Angels and Insects (1995)", "genres": ["Drama", "Romance"]}, "rating": "3", "timestamp": "875748004"}
+
+2023-11-26 16:12:51,708 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "288", "title": "Scream (1996)", "genres": ["Horror", "Thriller"]}, "rating": "3", "timestamp": "875746948"}
+
+2023-11-26 16:12:53,711 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "15", "title": "Mr. Holland's Opus (1995)", "genres": ["Drama"]}, "rating": "3", "timestamp": "875747439"}
+
+2023-11-26 16:12:55,715 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "237", "title": "Jerry Maguire (1996)", "genres": ["Drama", "Romance"]}, "rating": "3", "timestamp": "875747342"}
+
+2023-11-26 16:12:57,718 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "480", "title": "North by Northwest (1959)", "genres": ["Comedy", "Thriller"]}, "rating": "3", "timestamp": "875748245"}
+
+2023-11-26 16:12:59,720 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "111", "title": "Truth About Cats & Dogs, The (1996)", "genres": ["Comedy", "Romance"]}, "rating": "3", "timestamp": "875747896"}
+
+2023-11-26 16:13:01,723 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "25", "title": "Birdcage, The (1996)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "875747292"}
+
+2023-11-26 16:13:03,727 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "294", "title": "Liar Liar (1997)", "genres": ["Comedy"]}, "rating": "2", "timestamp": "875747047"}
+
+2023-11-26 16:13:05,730 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "328", "title": "Conspiracy Theory (1997)", "genres": ["Action", "Mystery", "Romance", "Thriller"]}, "rating": "2", "timestamp": "875746985"}
+
+2023-11-26 16:13:07,734 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "14", "title": "Postino, Il (1994)", "genres": ["Drama", "Romance"]}, "rating": "4", "timestamp": "875747401"}
+
+2023-11-26 16:13:09,736 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "405", "title": "Mission: Impossible (1996)", "genres": ["Action", "Adventure", "Mystery"]}, "rating": "4", "timestamp": "875748109"}
+
+2023-11-26 16:13:11,739 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "268", "title": "Chasing Amy (1997)", "genres": ["Drama", "Romance"]}, "rating": "3", "timestamp": "875746809"}
+
+2023-11-26 16:13:13,742 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "323", "title": "Dante's Peak (1997)", "genres": ["Action", "Thriller"]}, "rating": "1", "timestamp": "875746986"}
+
+2023-11-26 16:13:15,745 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "137", "title": "Big Night (1996)", "genres": ["Drama"]}, "rating": "4", "timestamp": "875747368"}
+
+2023-11-26 16:13:17,748 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "79", "title": "Fugitive, The (1993)", "genres": ["Action", "Thriller"]}, "rating": "3", "timestamp": "875748245"}
+
+2023-11-26 16:13:19,751 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "258", "title": "Contact (1997)", "genres": ["Drama", "Sci-Fi"]}, "rating": "3", "timestamp": "875746809"}
+
+2023-11-26 16:13:21,754 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "748", "title": "Saint, The (1997)", "genres": ["Action", "Romance", "Thriller"]}, "rating": "4", "timestamp": "875747010"}
+
+2023-11-26 16:13:23,760 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "255", "title": "My Best Friend's Wedding (1997)", "genres": ["Comedy", "Romance"]}, "rating": "4", "timestamp": "875747556"}
+
+2023-11-26 16:13:25,763 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "408", "title": "Close Shave, A (1995)", "genres": ["Animation", "Comedy", "Thriller"]}, "rating": "4", "timestamp": "875747242"}
+
+2023-11-26 16:13:27,767 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "10", "title": "Richard III (1995)", "genres": ["Drama", "War"]}, "rating": "4", "timestamp": "875748004"}
+
+2023-11-26 16:13:29,770 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "106", "title": "Diabolique (1996)", "genres": ["Drama", "Thriller"]}, "rating": "2", "timestamp": "875748139"}
+
+2023-11-26 16:13:31,773 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "1028", "title": "Grumpier Old Men (1995)", "genres": ["Comedy", "Romance"]}, "rating": "3", "timestamp": "875748198"}
+
+2023-11-26 16:13:33,777 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "109", "title": "Mystery Science Theater 3000: The Movie (1996)", "genres": ["Comedy", "Sci-Fi"]}, "rating": "4", "timestamp": "875747731"}
+
+2023-11-26 16:13:35,781 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "591", "title": "Primal Fear (1996)", "genres": ["Drama", "Thriller"]}, "rating": "3", "timestamp": "875747581"}
+
+2023-11-26 16:13:37,787 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "813", "title": "Celluloid Closet, The (1995)", "genres": ["Documentary"]}, "rating": "5", "timestamp": "875747265"}
+
+2023-11-26 16:13:39,793 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "3", "title": "Four Rooms (1995)", "genres": ["Thriller"]}, "rating": "2", "timestamp": "875748068"}
+
+2023-11-26 16:13:41,797 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "508", "title": "People vs. Larry Flynt, The (1996)", "genres": ["Drama"]}, "rating": "4", "timestamp": "875747752"}
+
+2023-11-26 16:13:43,800 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "321", "title": "Mother (1996)", "genres": ["Comedy"]}, "rating": "3", "timestamp": "875746917"}
+
+2023-11-26 16:13:45,803 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "1067", "title": "Bottle Rocket (1996)", "genres": ["Comedy"]}, "rating": "3", "timestamp": "875747514"}
+
+2023-11-26 16:13:47,808 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "678", "title": "Volcano (1997)", "genres": ["Drama", "Thriller"]}, "rating": "2", "timestamp": "875747047"}
+
+2023-11-26 16:13:49,812 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "333", "title": "Game, The (1997)", "genres": ["Mystery", "Thriller"]}, "rating": "4", "timestamp": "875746917"}
+
+2023-11-26 16:13:51,816 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "286", "title": "English Patient, The (1996)", "genres": ["Drama", "Romance", "War"]}, "rating": "4", "timestamp": "875746809"}
+
+2023-11-26 16:13:53,818 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "250", "title": "Fifth Element, The (1997)", "genres": ["Action", "Sci-Fi"]}, "rating": "5", "timestamp": "875747789"}
+
+2023-11-26 16:13:55,823 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "325", "title": "Crash (1996)", "genres": ["Drama", "Thriller"]}, "rating": "2", "timestamp": "875747047"}
+
+2023-11-26 16:13:57,827 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "259", "title": "George of the Jungle (1997)", "genres": ["Children", "Comedy"]}, "rating": "3", "timestamp": "875747047"}
+
+2023-11-26 16:13:59,830 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "596", "title": "Hunchback of Notre Dame, The (1996)", "genres": ["Animation", "Children", "Musical"]}, "rating": "2", "timestamp": "875747470"}
+
+2023-11-26 16:14:01,832 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "475", "title": "Trainspotting (1996)", "genres": ["Drama"]}, "rating": "4", "timestamp": "875747319"}
+
+2023-11-26 16:14:03,835 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "50", "title": "Star Wars (1977)", "genres": ["Action", "Adventure", "Romance", "Sci-Fi", "War"]}, "rating": "4", "timestamp": "875747292"}
+
+2023-11-26 16:14:05,838 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "289", "title": "Evita (1996)", "genres": ["Drama", "Musical"]}, "rating": "2", "timestamp": "875746985"}
+
+2023-11-26 16:14:07,841 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "762", "title": "Beautiful Girls (1996)", "genres": ["Drama"]}, "rating": "3", "timestamp": "875747688"}
+
+2023-11-26 16:14:09,846 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "150", "title": "Swingers (1996)", "genres": ["Comedy", "Drama"]}, "rating": "4", "timestamp": "875747292"}
+
+2023-11-26 16:14:11,847 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "306", "title": "Mrs. Brown (Her Majesty, Mrs. Brown) (1997)", "genres": ["Drama", "Romance"]}, "rating": "3", "timestamp": "875746948"}
+
+2023-11-26 16:14:13,852 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "126", "title": "Spitfire Grill, The (1996)", "genres": ["Drama"]}, "rating": "3", "timestamp": "875747556"}
+
+2023-11-26 16:14:15,854 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "741", "title": "Last Supper, The (1995)", "genres": ["Drama", "Thriller"]}, "rating": "3", "timestamp": "875747854"}
+
+2023-11-26 16:14:17,857 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "121", "title": "Independence Day (ID4) (1996)", "genres": ["Action", "Sci-Fi", "War"]}, "rating": "1", "timestamp": "875748139"}
+
+2023-11-26 16:14:19,860 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "301", "title": "In & Out (1997)", "genres": ["Comedy"]}, "rating": "5", "timestamp": "875747010"}
+
+2023-11-26 16:14:21,864 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "284", "title": "Tin Cup (1996)", "genres": ["Comedy", "Romance"]}, "rating": "3", "timestamp": "875747581"}
+
+2023-11-26 16:14:23,867 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "13", "title": "Mighty Aphrodite (1995)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "875747439"}
+
+2023-11-26 16:14:25,871 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "225", "title": "101 Dalmatians (1996)", "genres": ["Children", "Comedy"]}, "rating": "2", "timestamp": "875747439"}
+
+2023-11-26 16:14:27,874 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "948", "title": "Booty Call (1997)", "genres": ["Comedy", "Romance"]}, "rating": "3", "timestamp": "875746948"}
+
+2023-11-26 16:14:29,877 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "1010", "title": "Basquiat (1996)", "genres": ["Drama"]}, "rating": "3", "timestamp": "875747829"}
+
+2023-11-26 16:14:31,881 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "287", "title": "Marvin's Room (1996)", "genres": ["Drama"]}, "rating": "3", "timestamp": "875747829"}
+
+2023-11-26 16:14:33,884 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "269", "title": "Full Monty, The (1997)", "genres": ["Comedy"]}, "rating": "3", "timestamp": "875746948"}
+
+2023-11-26 16:14:35,887 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "285", "title": "Secrets & Lies (1996)", "genres": ["Drama"]}, "rating": "3", "timestamp": "875747470"}
+
+2023-11-26 16:14:37,891 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "412", "title": "Very Brady Sequel, A (1996)", "genres": ["Comedy"]}, "rating": "3", "timestamp": "875748109"}
+
+2023-11-26 16:14:39,894 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "251", "title": "Shall We Dance? (1996)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "875747514"}
+
+2023-11-26 16:14:41,896 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "283", "title": "Emma (1996)", "genres": ["Drama", "Romance"]}, "rating": "4", "timestamp": "875747401"}
+
+2023-11-26 16:14:43,900 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "929", "title": "Harriet the Spy (1996)", "genres": ["Children", "Comedy"]}, "rating": "3", "timestamp": "875747955"}
+
+2023-11-26 16:14:45,903 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "676", "title": "Crucible, The (1996)", "genres": ["Drama"]}, "rating": "3", "timestamp": "875747470"}
+
+2023-11-26 16:14:47,906 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "1012", "title": "Private Parts (1997)", "genres": ["Comedy", "Drama"]}, "rating": "3", "timestamp": "875747854"}
+
+2023-11-26 16:14:49,909 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "282", "title": "Time to Kill, A (1996)", "genres": ["Drama"]}, "rating": "1", "timestamp": "875747657"}
+
+2023-11-26 16:14:51,912 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "300", "title": "Air Force One (1997)", "genres": ["Action", "Thriller"]}, "rating": "4", "timestamp": "875748326"}
+
+2023-11-26 16:14:53,914 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "116", "title": "Cold Comfort Farm (1995)", "genres": ["Comedy"]}, "rating": "5", "timestamp": "875747319"}
+
+2023-11-26 16:14:55,919 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "1007", "title": "Waiting for Guffman (1996)", "genres": ["Comedy"]}, "rating": "5", "timestamp": "875747368"}
+
+2023-11-26 16:14:57,926 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "1011", "title": "2 Days in the Valley (1996)", "genres": ["Crime"]}, "rating": "1", "timestamp": "875747731"}
+
+2023-11-26 16:14:59,931 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "276", "title": "Leaving Las Vegas (1995)", "genres": ["Drama", "Romance"]}, "rating": "4", "timestamp": "875747265"}
+
+2023-11-26 16:15:01,934 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "473", "title": "James and the Giant Peach (1996)", "genres": ["Animation", "Children", "Musical"]}, "rating": "2", "timestamp": "875747635"}
+
+2023-11-26 16:15:03,936 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "262", "title": "In the Company of Men (1997)", "genres": ["Drama"]}, "rating": "4", "timestamp": "875746917"}
+
+2023-11-26 16:15:05,938 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "841", "title": "Glimmer Man, The (1996)", "genres": ["Action", "Thriller"]}, "rating": "1", "timestamp": "875747917"}
+
+2023-11-26 16:15:07,941 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "828", "title": "Alaska (1996)", "genres": ["Adventure", "Children"]}, "rating": "1", "timestamp": "875747936"}
+
+2023-11-26 16:15:09,945 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "993", "title": "Hercules (1997)", "genres": ["Adventure", "Animation", "Children", "Comedy", "Musical"]}, "rating": "2", "timestamp": "875747635"}
+
+2023-11-26 16:15:11,948 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "1009", "title": "Stealing Beauty (1996)", "genres": ["Drama"]}, "rating": "4", "timestamp": "875747731"}
+
+2023-11-26 16:15:13,951 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "108", "title": "Kids in the Hall: Brain Candy (1996)", "genres": ["Comedy"]}, "rating": "2", "timestamp": "875748164"}
+
+2023-11-26 16:15:15,952 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "224", "title": "Ridicule (1996)", "genres": ["Drama"]}, "rating": "4", "timestamp": "875747635"}
+
+2023-11-26 16:15:17,955 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "924", "title": "White Squall (1996)", "genres": ["Adventure", "Drama"]}, "rating": "3", "timestamp": "875748164"}
+
+2023-11-26 16:15:19,958 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "6", "title": "Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)", "genres": ["Drama"]}, "rating": "3", "timestamp": "875747439"}
+
+2023-11-26 16:15:21,962 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "713", "title": "Othello (1995)", "genres": ["Drama"]}, "rating": "3", "timestamp": "875747556"}
+
+2023-11-26 16:15:23,965 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "1008", "title": "I Shot Andy Warhol (1996)", "genres": ["Drama"]}, "rating": "3", "timestamp": "875748004"}
+
+2023-11-26 16:15:25,968 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "952", "title": "Blue in the Face (1995)", "genres": ["Comedy"]}, "rating": "3", "timestamp": "875747896"}
+
+2023-11-26 16:15:27,971 - INFO - Returned message: {"userId": "63", "movie": {"movieId": "1138", "title": "Best Men (1997)", "genres": ["Action", "Comedy", "Crime", "Drama"]}, "rating": "2", "timestamp": "875747789"}
+
+2023-11-26 16:15:29,977 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "242", "title": "Kolya (1996)", "genres": ["Comedy"]}, "rating": "5", "timestamp": "883888671"}
+
+2023-11-26 16:15:31,981 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "474", "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)", "genres": ["Sci-Fi", "War"]}, "rating": "3", "timestamp": "883889063"}
+
+2023-11-26 16:15:33,984 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "98", "title": "Silence of the Lambs, The (1991)", "genres": ["Drama", "Thriller"]}, "rating": "5", "timestamp": "883889147"}
+
+2023-11-26 16:15:35,987 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "480", "title": "North by Northwest (1959)", "genres": ["Comedy", "Thriller"]}, "rating": "4", "timestamp": "883888853"}
+
+2023-11-26 16:15:37,990 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "25", "title": "Birdcage, The (1996)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "883890235"}
+
+2023-11-26 16:15:39,991 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "275", "title": "Sense and Sensibility (1995)", "genres": ["Drama", "Romance"]}, "rating": "3", "timestamp": "883889764"}
+
+2023-11-26 16:15:41,995 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "209", "title": "This Is Spinal Tap (1984)", "genres": ["Comedy", "Drama", "Musical"]}, "rating": "3", "timestamp": "883889146"}
+
+2023-11-26 16:15:43,997 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "23", "title": "Taxi Driver (1976)", "genres": ["Drama", "Thriller"]}, "rating": "3", "timestamp": "883889355"}
+
+2023-11-26 16:15:46,001 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "174", "title": "Raiders of the Lost Ark (1981)", "genres": ["Action", "Adventure"]}, "rating": "4", "timestamp": "883889186"}
+
+2023-11-26 16:15:48,004 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "14", "title": "Postino, Il (1994)", "genres": ["Drama", "Romance"]}, "rating": "5", "timestamp": "883889691"}
+
+2023-11-26 16:15:50,007 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "405", "title": "Mission: Impossible (1996)", "genres": ["Action", "Adventure", "Mystery"]}, "rating": "4", "timestamp": "883889507"}
+
+2023-11-26 16:15:52,013 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "258", "title": "Contact (1997)", "genres": ["Drama", "Sci-Fi"]}, "rating": "5", "timestamp": "883888671"}
+
+2023-11-26 16:15:54,017 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "408", "title": "Close Shave, A (1995)", "genres": ["Animation", "Comedy", "Thriller"]}, "rating": "5", "timestamp": "883888853"}
+
+2023-11-26 16:15:56,021 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "69", "title": "Forrest Gump (1994)", "genres": ["Comedy", "Romance", "War"]}, "rating": "4", "timestamp": "883889430"}
+
+2023-11-26 16:15:58,025 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "109", "title": "Mystery Science Theater 3000: The Movie (1996)", "genres": ["Comedy", "Sci-Fi"]}, "rating": "4", "timestamp": "883889063"}
+
+2023-11-26 16:16:00,027 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "7", "title": "Twelve Monkeys (1995)", "genres": ["Drama", "Sci-Fi"]}, "rating": "4", "timestamp": "883889479"}
+
+2023-11-26 16:16:02,032 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "56", "title": "Pulp Fiction (1994)", "genres": ["Crime", "Drama"]}, "rating": "4", "timestamp": "883889102"}
+
+2023-11-26 16:16:04,034 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "89", "title": "Blade Runner (1982)", "genres": ["Film-Noir", "Sci-Fi"]}, "rating": "5", "timestamp": "883889229"}
+
+2023-11-26 16:16:06,038 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "813", "title": "Celluloid Closet, The (1995)", "genres": ["Documentary"]}, "rating": "4", "timestamp": "883890235"}
+
+2023-11-26 16:16:08,041 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "507", "title": "Streetcar Named Desire, A (1951)", "genres": ["Drama"]}, "rating": "2", "timestamp": "883889146"}
+
+2023-11-26 16:16:10,045 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "508", "title": "People vs. Larry Flynt, The (1996)", "genres": ["Drama"]}, "rating": "4", "timestamp": "883889984"}
+
+2023-11-26 16:16:12,048 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "191", "title": "Amadeus (1984)", "genres": ["Drama", "Mystery"]}, "rating": "4", "timestamp": "883889229"}
+
+2023-11-26 16:16:14,052 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "169", "title": "Wrong Trousers, The (1993)", "genres": ["Animation", "Comedy"]}, "rating": "5", "timestamp": "883888892"}
+
+2023-11-26 16:16:16,056 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "286", "title": "English Patient, The (1996)", "genres": ["Drama", "Romance", "War"]}, "rating": "4", "timestamp": "883888600"}
+
+2023-11-26 16:16:18,059 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "12", "title": "Usual Suspects, The (1995)", "genres": ["Crime", "Thriller"]}, "rating": "5", "timestamp": "883889322"}
+
+2023-11-26 16:16:20,063 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "250", "title": "Fifth Element, The (1997)", "genres": ["Action", "Sci-Fi"]}, "rating": "4", "timestamp": "883890491"}
+
+2023-11-26 16:16:22,066 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "176", "title": "Aliens (1986)", "genres": ["Action", "Sci-Fi", "Thriller", "War"]}, "rating": "4", "timestamp": "883888978"}
+
+2023-11-26 16:16:24,070 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "97", "title": "Dances with Wolves (1990)", "genres": ["Adventure", "Drama", "Western"]}, "rating": "3", "timestamp": "883889355"}
+
+2023-11-26 16:16:26,074 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "596", "title": "Hunchback of Notre Dame, The (1996)", "genres": ["Animation", "Children", "Musical"]}, "rating": "3", "timestamp": "883889884"}
+
+2023-11-26 16:16:28,077 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "182", "title": "GoodFellas (1990)", "genres": ["Crime", "Drama"]}, "rating": "1", "timestamp": "883889322"}
+
+2023-11-26 16:16:30,080 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "150", "title": "Swingers (1996)", "genres": ["Comedy", "Drama"]}, "rating": "4", "timestamp": "883889063"}
+
+2023-11-26 16:16:32,084 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "370", "title": "Mary Reilly (1996)", "genres": ["Drama", "Thriller"]}, "rating": "3", "timestamp": "883890235"}
+
+2023-11-26 16:16:34,087 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "147", "title": "Long Kiss Goodnight, The (1996)", "genres": ["Action", "Thriller"]}, "rating": "3", "timestamp": "883889479"}
+
+2023-11-26 16:16:36,091 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "509", "title": "My Left Foot (1989)", "genres": ["Drama"]}, "rating": "4", "timestamp": "883889322"}
+
+2023-11-26 16:16:38,095 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "28", "title": "Apollo 13 (1995)", "genres": ["Action", "Drama", "Thriller"]}, "rating": "4", "timestamp": "883889322"}
+
+2023-11-26 16:16:40,096 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "179", "title": "Clockwork Orange, A (1971)", "genres": ["Sci-Fi"]}, "rating": "4", "timestamp": "883888853"}
+
+2023-11-26 16:16:42,099 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "92", "title": "True Romance (1993)", "genres": ["Action", "Crime", "Romance"]}, "rating": "2", "timestamp": "883889102"}
+
+2023-11-26 16:16:44,103 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "9", "title": "Dead Man Walking (1995)", "genres": ["Drama"]}, "rating": "5", "timestamp": "883889811"}
+
+2023-11-26 16:16:46,106 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "203", "title": "Unforgiven (1992)", "genres": ["Western"]}, "rating": "5", "timestamp": "883888978"}
+
+2023-11-26 16:16:48,110 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "513", "title": "Third Man, The (1949)", "genres": ["Mystery", "Thriller"]}, "rating": "3", "timestamp": "883889256"}
+
+2023-11-26 16:16:50,114 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "180", "title": "Apocalypse Now (1979)", "genres": ["Drama", "War"]}, "rating": "4", "timestamp": "883889322"}
+
+2023-11-26 16:16:52,118 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "283", "title": "Emma (1996)", "genres": ["Drama", "Romance"]}, "rating": "2", "timestamp": "883889811"}
+
+2023-11-26 16:16:54,122 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "24", "title": "Rumble in the Bronx (1995)", "genres": ["Action", "Adventure", "Crime"]}, "rating": "4", "timestamp": "883889479"}
+
+2023-11-26 16:16:56,126 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "527", "title": "Gandhi (1982)", "genres": ["Drama"]}, "rating": "4", "timestamp": "883889430"}
+
+2023-11-26 16:16:58,130 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "652", "title": "Rosencrantz and Guildenstern Are Dead (1990)", "genres": ["Comedy", "Drama"]}, "rating": "3", "timestamp": "883889012"}
+
+2023-11-26 16:17:00,142 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "1117", "title": "Surviving Picasso (1996)", "genres": ["Drama"]}, "rating": "3", "timestamp": "883890262"}
+
+2023-11-26 16:17:02,145 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "270", "title": "Gattaca (1997)", "genres": ["Drama", "Sci-Fi", "Thriller"]}, "rating": "4", "timestamp": "883888639"}
+
+2023-11-26 16:17:04,147 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "224", "title": "Ridicule (1996)", "genres": ["Drama"]}, "rating": "4", "timestamp": "883889690"}
+
+2023-11-26 16:17:06,151 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "713", "title": "Othello (1995)", "genres": ["Drama"]}, "rating": "5", "timestamp": "883889884"}
+
+2023-11-26 16:17:08,153 - INFO - Returned message: {"userId": "226", "movie": {"movieId": "236", "title": "Citizen Ruth (1996)", "genres": ["Comedy", "Drama"]}, "rating": "3", "timestamp": "883889844"}
+
+2023-11-26 16:17:10,158 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "242", "title": "Kolya (1996)", "genres": ["Comedy"]}, "rating": "3", "timestamp": "879138235"}
+
+2023-11-26 16:17:12,163 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "302", "title": "L.A. Confidential (1997)", "genres": ["Crime", "Film-Noir", "Mystery", "Thriller"]}, "rating": "4", "timestamp": "879138235"}
+
+2023-11-26 16:17:14,166 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "474", "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)", "genres": ["Sci-Fi", "War"]}, "rating": "5", "timestamp": "879138783"}
+
+2023-11-26 16:17:16,169 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "222", "title": "Star Trek: First Contact (1996)", "genres": ["Action", "Adventure", "Sci-Fi"]}, "rating": "2", "timestamp": "879138910"}
+
+2023-11-26 16:17:18,172 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "143", "title": "Sound of Music, The (1965)", "genres": ["Musical"]}, "rating": "3", "timestamp": "879139003"}
+
+2023-11-26 16:17:20,176 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "515", "title": "Boot, Das (1981)", "genres": ["Action", "Drama", "War"]}, "rating": "4", "timestamp": "879138657"}
+
+2023-11-26 16:17:22,180 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "288", "title": "Scream (1996)", "genres": ["Horror", "Thriller"]}, "rating": "3", "timestamp": "879138235"}
+
+2023-11-26 16:17:24,183 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "919", "title": "City of Lost Children, The (1995)", "genres": ["Adventure", "Sci-Fi"]}, "rating": "4", "timestamp": "879138712"}
+
+2023-11-26 16:17:26,185 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "480", "title": "North by Northwest (1959)", "genres": ["Comedy", "Thriller"]}, "rating": "5", "timestamp": "879138784"}
+
+2023-11-26 16:17:28,189 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "496", "title": "It's a Wonderful Life (1946)", "genres": ["Drama"]}, "rating": "3", "timestamp": "879138910"}
+
+2023-11-26 16:17:30,192 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "174", "title": "Raiders of the Lost Ark (1981)", "genres": ["Action", "Adventure"]}, "rating": "5", "timestamp": "879138657"}
+
+2023-11-26 16:17:32,195 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "200", "title": "Shining, The (1980)", "genres": ["Horror"]}, "rating": "5", "timestamp": "879138832"}
+
+2023-11-26 16:17:34,199 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "135", "title": "2001: A Space Odyssey (1968)", "genres": ["Drama", "Mystery", "Sci-Fi", "Thriller"]}, "rating": "5", "timestamp": "879139003"}
+
+2023-11-26 16:17:36,202 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "479", "title": "Vertigo (1958)", "genres": ["Mystery", "Thriller"]}, "rating": "4", "timestamp": "879138831"}
+
+2023-11-26 16:17:38,206 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "137", "title": "Big Night (1996)", "genres": ["Drama"]}, "rating": "3", "timestamp": "879138657"}
+
+2023-11-26 16:17:40,209 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "258", "title": "Contact (1997)", "genres": ["Drama", "Sci-Fi"]}, "rating": "3", "timestamp": "879138235"}
+
+2023-11-26 16:17:42,212 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "172", "title": "Empire Strikes Back, The (1980)", "genres": ["Action", "Adventure", "Drama", "Romance", "Sci-Fi", "War"]}, "rating": "4", "timestamp": "879138783"}
+
+2023-11-26 16:17:44,215 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "61", "title": "Three Colors: White (1994)", "genres": ["Drama"]}, "rating": "4", "timestamp": "879138657"}
+
+2023-11-26 16:17:46,218 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "202", "title": "Groundhog Day (1993)", "genres": ["Comedy", "Romance"]}, "rating": "3", "timestamp": "879139096"}
+
+2023-11-26 16:17:48,222 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "89", "title": "Blade Runner (1982)", "genres": ["Film-Noir", "Sci-Fi"]}, "rating": "5", "timestamp": "879138910"}
+
+2023-11-26 16:17:50,225 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "357", "title": "One Flew Over the Cuckoo's Nest (1975)", "genres": ["Drama"]}, "rating": "4", "timestamp": "879138713"}
+
+2023-11-26 16:17:52,228 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "484", "title": "Maltese Falcon, The (1941)", "genres": ["Film-Noir", "Mystery"]}, "rating": "4", "timestamp": "879139096"}
+
+2023-11-26 16:17:54,232 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "191", "title": "Amadeus (1984)", "genres": ["Drama", "Mystery"]}, "rating": "4", "timestamp": "879138832"}
+
+2023-11-26 16:17:56,235 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "197", "title": "Graduate, The (1967)", "genres": ["Drama", "Romance"]}, "rating": "5", "timestamp": "879139003"}
+
+2023-11-26 16:17:58,238 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "333", "title": "Game, The (1997)", "genres": ["Mystery", "Thriller"]}, "rating": "3", "timestamp": "879138287"}
+
+2023-11-26 16:18:00,242 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "175", "title": "Brazil (1985)", "genres": ["Sci-Fi"]}, "rating": "5", "timestamp": "879138784"}
+
+2023-11-26 16:18:02,245 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "286", "title": "English Patient, The (1996)", "genres": ["Drama", "Romance", "War"]}, "rating": "4", "timestamp": "879138235"}
+
+2023-11-26 16:18:04,248 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "640", "title": "Cook the Thief His Wife & Her Lover, The (1989)", "genres": ["Drama"]}, "rating": "5", "timestamp": "879138713"}
+
+2023-11-26 16:18:06,251 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "462", "title": "Like Water For Chocolate (Como agua para chocolate) (1992)", "genres": ["Drama", "Romance"]}, "rating": "3", "timestamp": "879138831"}
+
+2023-11-26 16:18:08,254 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "238", "title": "Raising Arizona (1987)", "genres": ["Comedy"]}, "rating": "5", "timestamp": "879139040"}
+
+2023-11-26 16:18:10,258 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "211", "title": "M*A*S*H (1970)", "genres": ["Comedy", "War"]}, "rating": "4", "timestamp": "879139002"}
+
+2023-11-26 16:18:12,262 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "475", "title": "Trainspotting (1996)", "genres": ["Drama"]}, "rating": "4", "timestamp": "879138832"}
+
+2023-11-26 16:18:14,265 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "182", "title": "GoodFellas (1990)", "genres": ["Crime", "Drama"]}, "rating": "5", "timestamp": "879138783"}
+
+2023-11-26 16:18:16,268 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "50", "title": "Star Wars (1977)", "genres": ["Action", "Adventure", "Romance", "Sci-Fi", "War"]}, "rating": "5", "timestamp": "879138657"}
+
+2023-11-26 16:18:18,272 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "187", "title": "Godfather: Part II, The (1974)", "genres": ["Action", "Crime", "Drama"]}, "rating": "5", "timestamp": "879139096"}
+
+2023-11-26 16:18:20,275 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "289", "title": "Evita (1996)", "genres": ["Drama", "Musical"]}, "rating": "2", "timestamp": "879138345"}
+
+2023-11-26 16:18:22,278 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "185", "title": "Psycho (1960)", "genres": ["Horror", "Romance", "Thriller"]}, "rating": "5", "timestamp": "879139002"}
+
+2023-11-26 16:18:24,281 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "642", "title": "Grifters, The (1990)", "genres": ["Crime", "Drama", "Film-Noir"]}, "rating": "3", "timestamp": "879138910"}
+
+2023-11-26 16:18:26,285 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "806", "title": "Menace II Society (1993)", "genres": ["Action", "Crime", "Drama"]}, "rating": "4", "timestamp": "879139040"}
+
+2023-11-26 16:18:28,290 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "324", "title": "Lost Highway (1997)", "genres": ["Mystery"]}, "rating": "2", "timestamp": "879138287"}
+
+2023-11-26 16:18:30,294 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "152", "title": "Sleeper (1973)", "genres": ["Comedy", "Sci-Fi"]}, "rating": "4", "timestamp": "879138832"}
+
+2023-11-26 16:18:32,297 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "523", "title": "Cool Hand Luke (1967)", "genres": ["Comedy", "Drama"]}, "rating": "5", "timestamp": "879138831"}
+
+2023-11-26 16:18:34,300 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "945", "title": "Charade (1963)", "genres": ["Comedy", "Mystery", "Romance", "Thriller"]}, "rating": "3", "timestamp": "879138713"}
+
+2023-11-26 16:18:36,303 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "708", "title": "Sex, Lies, and Videotape (1989)", "genres": ["Drama"]}, "rating": "4", "timestamp": "879139003"}
+
+2023-11-26 16:18:38,306 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "488", "title": "Sunset Blvd. (1950)", "genres": ["Film-Noir"]}, "rating": "4", "timestamp": "879138831"}
+
+2023-11-26 16:18:40,309 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "651", "title": "Glory (1989)", "genres": ["Action", "Drama", "War"]}, "rating": "4", "timestamp": "879138783"}
+
+2023-11-26 16:18:42,312 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "527", "title": "Gandhi (1982)", "genres": ["Drama"]}, "rating": "4", "timestamp": "879139040"}
+
+2023-11-26 16:18:44,314 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "641", "title": "Paths of Glory (1957)", "genres": ["Drama", "War"]}, "rating": "5", "timestamp": "879138831"}
+
+2023-11-26 16:18:46,317 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "482", "title": "Some Like It Hot (1959)", "genres": ["Comedy", "Crime"]}, "rating": "4", "timestamp": "879138831"}
+
+2023-11-26 16:18:48,320 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "874", "title": "Career Girls (1997)", "genres": ["Drama"]}, "rating": "3", "timestamp": "879138368"}
+
+2023-11-26 16:18:50,324 - INFO - Returned message: {"userId": "154", "movie": {"movieId": "414", "title": "My Favorite Year (1982)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "879138910"}
+
+2023-11-26 16:18:52,327 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "242", "title": "Kolya (1996)", "genres": ["Comedy"]}, "rating": "5", "timestamp": "876503793"}
+
+2023-11-26 16:18:54,329 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "257", "title": "Men in Black (1997)", "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"]}, "rating": "4", "timestamp": "876504354"}
+
+2023-11-26 16:18:56,334 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "100", "title": "Fargo (1996)", "genres": ["Crime", "Drama", "Thriller"]}, "rating": "4", "timestamp": "876504286"}
+
+2023-11-26 16:18:58,337 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "111", "title": "Truth About Cats & Dogs, The (1996)", "genres": ["Comedy", "Romance"]}, "rating": "4", "timestamp": "876504442"}
+
+2023-11-26 16:19:00,341 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "25", "title": "Birdcage, The (1996)", "genres": ["Comedy"]}, "rating": "3", "timestamp": "876504354"}
+
+2023-11-26 16:19:02,345 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "275", "title": "Sense and Sensibility (1995)", "genres": ["Drama", "Romance"]}, "rating": "4", "timestamp": "876503894"}
+
+2023-11-26 16:19:04,345 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "756", "title": "Father of the Bride Part II (1995)", "genres": ["Comedy"]}, "rating": "3", "timestamp": "876504472"}
+
+2023-11-26 16:19:06,349 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "14", "title": "Postino, Il (1994)", "genres": ["Drama", "Romance"]}, "rating": "5", "timestamp": "876503995"}
+
+2023-11-26 16:19:08,352 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "258", "title": "Contact (1997)", "genres": ["Drama", "Sci-Fi"]}, "rating": "2", "timestamp": "876503793"}
+
+2023-11-26 16:19:10,357 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "476", "title": "First Wives Club, The (1996)", "genres": ["Comedy"]}, "rating": "3", "timestamp": "876504679"}
+
+2023-11-26 16:19:12,360 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "235", "title": "Mars Attacks! (1996)", "genres": ["Action", "Comedy", "Sci-Fi", "War"]}, "rating": "4", "timestamp": "876504354"}
+
+2023-11-26 16:19:14,363 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "1028", "title": "Grumpier Old Men (1995)", "genres": ["Comedy", "Romance"]}, "rating": "2", "timestamp": "876504581"}
+
+2023-11-26 16:19:16,366 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "303", "title": "Ulee's Gold (1997)", "genres": ["Drama"]}, "rating": "3", "timestamp": "876503793"}
+
+2023-11-26 16:19:18,370 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "321", "title": "Mother (1996)", "genres": ["Comedy"]}, "rating": "3", "timestamp": "876503793"}
+
+2023-11-26 16:19:20,373 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "286", "title": "English Patient, The (1996)", "genres": ["Drama", "Romance", "War"]}, "rating": "4", "timestamp": "876503793"}
+
+2023-11-26 16:19:22,376 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "289", "title": "Evita (1996)", "genres": ["Drama", "Musical"]}, "rating": "3", "timestamp": "876503793"}
+
+2023-11-26 16:19:24,380 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "150", "title": "Swingers (1996)", "genres": ["Comedy", "Drama"]}, "rating": "5", "timestamp": "876504286"}
+
+2023-11-26 16:19:26,383 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "306", "title": "Mrs. Brown (Her Majesty, Mrs. Brown) (1997)", "genres": ["Drama", "Romance"]}, "rating": "5", "timestamp": "876503792"}
+
+2023-11-26 16:19:28,386 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "741", "title": "Last Supper, The (1995)", "genres": ["Drama", "Thriller"]}, "rating": "1", "timestamp": "876504286"}
+
+2023-11-26 16:19:30,388 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "744", "title": "Michael Collins (1996)", "genres": ["Drama", "War"]}, "rating": "4", "timestamp": "876504054"}
+
+2023-11-26 16:19:32,391 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "864", "title": "My Fellow Americans (1996)", "genres": ["Comedy"]}, "rating": "3", "timestamp": "876504286"}
+
+2023-11-26 16:19:34,396 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "13", "title": "Mighty Aphrodite (1995)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "876504442"}
+
+2023-11-26 16:19:36,400 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "287", "title": "Marvin's Room (1996)", "genres": ["Drama"]}, "rating": "4", "timestamp": "876504442"}
+
+2023-11-26 16:19:38,404 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "269", "title": "Full Monty, The (1997)", "genres": ["Comedy"]}, "rating": "5", "timestamp": "876503792"}
+
+2023-11-26 16:19:40,415 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "285", "title": "Secrets & Lies (1996)", "genres": ["Drama"]}, "rating": "4", "timestamp": "876504354"}
+
+2023-11-26 16:19:42,420 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "319", "title": "Everyone Says I Love You (1996)", "genres": ["Comedy", "Musical", "Romance"]}, "rating": "4", "timestamp": "876503793"}
+
+2023-11-26 16:19:44,423 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "283", "title": "Emma (1996)", "genres": ["Drama", "Romance"]}, "rating": "3", "timestamp": "876503995"}
+
+2023-11-26 16:19:46,426 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "116", "title": "Cold Comfort Farm (1995)", "genres": ["Comedy"]}, "rating": "5", "timestamp": "876504026"}
+
+2023-11-26 16:19:48,430 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "1009", "title": "Stealing Beauty (1996)", "genres": ["Drama"]}, "rating": "4", "timestamp": "876503995"}
+
+2023-11-26 16:19:50,434 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "19", "title": "Antonia's Line (1995)", "genres": ["Drama"]}, "rating": "5", "timestamp": "876503995"}
+
+2023-11-26 16:19:52,437 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "1514", "title": "Dream With the Fishes (1997)", "genres": ["Drama"]}, "rating": "4", "timestamp": "876504614"}
+
+2023-11-26 16:19:54,440 - INFO - Returned message: {"userId": "306", "movie": {"movieId": "1251", "title": "A Chef in Love (1996)", "genres": ["Comedy"]}, "rating": "5", "timestamp": "876504026"}
+
+2023-11-26 16:19:56,443 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "242", "title": "Kolya (1996)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "884196057"}
+
+2023-11-26 16:19:58,447 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "257", "title": "Men in Black (1997)", "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"]}, "rating": "5", "timestamp": "884196921"}
+
+2023-11-26 16:20:00,450 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "222", "title": "Star Trek: First Contact (1996)", "genres": ["Action", "Adventure", "Sci-Fi"]}, "rating": "5", "timestamp": "884196640"}
+
+2023-11-26 16:20:02,454 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "274", "title": "Sabrina (1995)", "genres": ["Comedy", "Romance"]}, "rating": "4", "timestamp": "884196741"}
+
+2023-11-26 16:20:04,457 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "144", "title": "Die Hard (1988)", "genres": ["Action", "Thriller"]}, "rating": "4", "timestamp": "884197131"}
+
+2023-11-26 16:20:06,461 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "1", "title": "Toy Story (1995)", "genres": ["Animation", "Children", "Comedy"]}, "rating": "5", "timestamp": "884196689"}
+
+2023-11-26 16:20:08,464 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "277", "title": "Restoration (1995)", "genres": ["Drama"]}, "rating": "5", "timestamp": "884198772"}
+
+2023-11-26 16:20:10,467 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "246", "title": "Chasing Amy (1997)", "genres": ["Drama", "Romance"]}, "rating": "4", "timestamp": "884196584"}
+
+2023-11-26 16:20:12,470 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "98", "title": "Silence of the Lambs, The (1991)", "genres": ["Drama", "Thriller"]}, "rating": "5", "timestamp": "884197091"}
+
+2023-11-26 16:20:14,474 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "194", "title": "Sting, The (1973)", "genres": ["Comedy", "Crime"]}, "rating": "5", "timestamp": "884197193"}
+
+2023-11-26 16:20:16,477 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "32", "title": "Crumb (1994)", "genres": ["Documentary"]}, "rating": "4", "timestamp": "884197131"}
+
+2023-11-26 16:20:18,481 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "304", "title": "Fly Away Home (1996)", "genres": ["Adventure", "Children"]}, "rating": "3", "timestamp": "884196149"}
+
+2023-11-26 16:20:20,484 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "100", "title": "Fargo (1996)", "genres": ["Crime", "Drama", "Thriller"]}, "rating": "5", "timestamp": "884196489"}
+
+2023-11-26 16:20:22,487 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "181", "title": "Return of the Jedi (1983)", "genres": ["Action", "Adventure", "Romance", "Sci-Fi", "War"]}, "rating": "5", "timestamp": "884198772"}
+
+2023-11-26 16:20:24,491 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "515", "title": "Boot, Das (1981)", "genres": ["Action", "Drama", "War"]}, "rating": "5", "timestamp": "884196555"}
+
+2023-11-26 16:20:26,494 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "20", "title": "Angels and Insects (1995)", "genres": ["Drama", "Romance"]}, "rating": "5", "timestamp": "884196921"}
+
+2023-11-26 16:20:28,502 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "427", "title": "To Kill a Mockingbird (1962)", "genres": ["Drama"]}, "rating": "5", "timestamp": "884198772"}
+
+2023-11-26 16:20:30,506 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "15", "title": "Mr. Holland's Opus (1995)", "genres": ["Drama"]}, "rating": "3", "timestamp": "884196712"}
+
+2023-11-26 16:20:32,511 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "248", "title": "Grosse Pointe Blank (1997)", "genres": ["Comedy", "Crime"]}, "rating": "5", "timestamp": "884196765"}
+
+2023-11-26 16:20:34,513 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "237", "title": "Jerry Maguire (1996)", "genres": ["Drama", "Romance"]}, "rating": "5", "timestamp": "884196785"}
+
+2023-11-26 16:20:36,517 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "480", "title": "North by Northwest (1959)", "genres": ["Comedy", "Thriller"]}, "rating": "5", "timestamp": "884197068"}
+
+2023-11-26 16:20:38,520 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "111", "title": "Truth About Cats & Dogs, The (1996)", "genres": ["Comedy", "Romance"]}, "rating": "3", "timestamp": "884196712"}
+
+2023-11-26 16:20:40,524 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "275", "title": "Sense and Sensibility (1995)", "genres": ["Drama", "Romance"]}, "rating": "4", "timestamp": "884196555"}
+
+2023-11-26 16:20:42,527 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "498", "title": "African Queen, The (1951)", "genres": ["Action", "Adventure", "Romance", "War"]}, "rating": "5", "timestamp": "884197352"}
+
+2023-11-26 16:20:44,530 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "209", "title": "This Is Spinal Tap (1984)", "genres": ["Comedy", "Drama", "Musical"]}, "rating": "4", "timestamp": "884199625"}
+
+2023-11-26 16:20:46,534 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "23", "title": "Taxi Driver (1976)", "genres": ["Drama", "Thriller"]}, "rating": "5", "timestamp": "884197235"}
+
+2023-11-26 16:20:48,537 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "294", "title": "Liar Liar (1997)", "genres": ["Comedy"]}, "rating": "1", "timestamp": "884196374"}
+
+2023-11-26 16:20:50,541 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "685", "title": "Executive Decision (1996)", "genres": ["Action", "Thriller"]}, "rating": "4", "timestamp": "884196896"}
+
+2023-11-26 16:20:52,545 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "96", "title": "Terminator 2: Judgment Day (1991)", "genres": ["Action", "Sci-Fi", "Thriller"]}, "rating": "5", "timestamp": "884197287"}
+
+2023-11-26 16:20:54,548 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "151", "title": "Willy Wonka and the Chocolate Factory (1971)", "genres": ["Adventure", "Children", "Comedy"]}, "rating": "2", "timestamp": "884196964"}
+
+2023-11-26 16:20:56,551 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "514", "title": "Annie Hall (1977)", "genres": ["Comedy", "Romance"]}, "rating": "5", "timestamp": "884199624"}
+
+2023-11-26 16:20:58,553 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "485", "title": "My Fair Lady (1964)", "genres": ["Musical", "Romance"]}, "rating": "5", "timestamp": "884197235"}
+
+2023-11-26 16:21:00,556 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "750", "title": "Amistad (1997)", "genres": ["Drama"]}, "rating": "5", "timestamp": "884196150"}
+
+2023-11-26 16:21:02,559 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "815", "title": "One Fine Day (1996)", "genres": ["Drama", "Romance"]}, "rating": "3", "timestamp": "884196806"}
+
+2023-11-26 16:21:04,563 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "272", "title": "Good Will Hunting (1997)", "genres": ["Drama"]}, "rating": "5", "timestamp": "884198772"}
+
+2023-11-26 16:21:06,567 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "14", "title": "Postino, Il (1994)", "genres": ["Drama", "Romance"]}, "rating": "4", "timestamp": "884196665"}
+
+2023-11-26 16:21:08,573 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "504", "title": "Bonnie and Clyde (1967)", "genres": ["Crime", "Drama"]}, "rating": "5", "timestamp": "884197394"}
+
+2023-11-26 16:21:10,576 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "268", "title": "Chasing Amy (1997)", "genres": ["Drama", "Romance"]}, "rating": "4", "timestamp": "884196238"}
+
+2023-11-26 16:21:12,580 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "117", "title": "Rock, The (1996)", "genres": ["Action", "Adventure", "Thriller"]}, "rating": "3", "timestamp": "884196741"}
+
+2023-11-26 16:21:14,583 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "137", "title": "Big Night (1996)", "genres": ["Drama"]}, "rating": "4", "timestamp": "884196741"}
+
+2023-11-26 16:21:16,586 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "281", "title": "River Wild, The (1994)", "genres": ["Action", "Thriller"]}, "rating": "2", "timestamp": "884196985"}
+
+2023-11-26 16:21:18,589 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "298", "title": "Face/Off (1997)", "genres": ["Action", "Sci-Fi", "Thriller"]}, "rating": "1", "timestamp": "884196640"}
+
+2023-11-26 16:21:20,593 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "79", "title": "Fugitive, The (1993)", "genres": ["Action", "Thriller"]}, "rating": "4", "timestamp": "884197068"}
+
+2023-11-26 16:21:22,596 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "258", "title": "Contact (1997)", "genres": ["Drama", "Sci-Fi"]}, "rating": "5", "timestamp": "884196469"}
+
+2023-11-26 16:21:24,599 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "455", "title": "Jackie Chan's First Strike (1996)", "genres": ["Action"]}, "rating": "1", "timestamp": "884196921"}
+
+2023-11-26 16:21:26,603 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "172", "title": "Empire Strikes Back, The (1980)", "genres": ["Action", "Adventure", "Drama", "Romance", "Sci-Fi", "War"]}, "rating": "5", "timestamp": "884197193"}
+
+2023-11-26 16:21:28,606 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "61", "title": "Three Colors: White (1994)", "genres": ["Drama"]}, "rating": "3", "timestamp": "884197287"}
+
+2023-11-26 16:21:30,609 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "48", "title": "Hoop Dreams (1994)", "genres": ["Documentary"]}, "rating": "5", "timestamp": "884197091"}
+
+2023-11-26 16:21:32,612 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "483", "title": "Casablanca (1942)", "genres": ["Drama", "Romance", "War"]}, "rating": "5", "timestamp": "884197307"}
+
+2023-11-26 16:21:34,614 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "255", "title": "My Best Friend's Wedding (1997)", "genres": ["Comedy", "Romance"]}, "rating": "2", "timestamp": "884196584"}
+
+2023-11-26 16:21:36,618 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "228", "title": "Star Trek: The Wrath of Khan (1982)", "genres": ["Action", "Adventure", "Sci-Fi"]}, "rating": "4", "timestamp": "884197264"}
+
+2023-11-26 16:21:38,621 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "688", "title": "Leave It to Beaver (1997)", "genres": ["Comedy"]}, "rating": "1", "timestamp": "884196374"}
+
+2023-11-26 16:21:40,624 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "10", "title": "Richard III (1995)", "genres": ["Drama", "War"]}, "rating": "2", "timestamp": "884196605"}
+
+2023-11-26 16:21:42,627 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "127", "title": "Godfather, The (1972)", "genres": ["Action", "Crime", "Drama"]}, "rating": "5", "timestamp": "884196489"}
+
+2023-11-26 16:21:44,631 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "7", "title": "Twelve Monkeys (1995)", "genres": ["Drama", "Sci-Fi"]}, "rating": "5", "timestamp": "884196896"}
+
+2023-11-26 16:21:46,634 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "56", "title": "Pulp Fiction (1994)", "genres": ["Crime", "Drama"]}, "rating": "5", "timestamp": "884197287"}
+
+2023-11-26 16:21:48,635 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "89", "title": "Blade Runner (1982)", "genres": ["Film-Noir", "Sci-Fi"]}, "rating": "5", "timestamp": "884197352"}
+
+2023-11-26 16:21:50,638 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "153", "title": "Fish Called Wanda, A (1988)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "884197419"}
+
+2023-11-26 16:21:52,641 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "11", "title": "Seven (Se7en) (1995)", "genres": ["Crime", "Thriller"]}, "rating": "5", "timestamp": "884197131"}
+
+2023-11-26 16:21:54,645 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "198", "title": "Nikita (La Femme Nikita) (1990)", "genres": ["Thriller"]}, "rating": "5", "timestamp": "884197264"}
+
+2023-11-26 16:21:56,649 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "705", "title": "Singin' in the Rain (1952)", "genres": ["Musical", "Romance"]}, "rating": "5", "timestamp": "884197193"}
+
+2023-11-26 16:21:58,651 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "357", "title": "One Flew Over the Cuckoo's Nest (1975)", "genres": ["Drama"]}, "rating": "5", "timestamp": "884197068"}
+
+2023-11-26 16:22:00,654 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "484", "title": "Maltese Falcon, The (1941)", "genres": ["Film-Noir", "Mystery"]}, "rating": "4", "timestamp": "884197308"}
+
+2023-11-26 16:22:02,657 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "508", "title": "People vs. Larry Flynt, The (1996)", "genres": ["Drama"]}, "rating": "5", "timestamp": "884196584"}
+
+2023-11-26 16:22:04,660 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "303", "title": "Ulee's Gold (1997)", "genres": ["Drama"]}, "rating": "4", "timestamp": "884196238"}
+
+2023-11-26 16:22:06,663 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "204", "title": "Back to the Future (1985)", "genres": ["Comedy", "Sci-Fi"]}, "rating": "5", "timestamp": "884199625"}
+
+2023-11-26 16:22:08,667 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "191", "title": "Amadeus (1984)", "genres": ["Drama", "Mystery"]}, "rating": "5", "timestamp": "884197193"}
+
+2023-11-26 16:22:10,670 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "134", "title": "Citizen Kane (1941)", "genres": ["Drama"]}, "rating": "5", "timestamp": "884197264"}
+
+2023-11-26 16:22:12,673 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "256", "title": "When the Cats Away (Chacun cherche son chat) (1996)", "genres": ["Comedy", "Romance"]}, "rating": "5", "timestamp": "884196741"}
+
+2023-11-26 16:22:14,676 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "199", "title": "Bridge on the River Kwai, The (1957)", "genres": ["Drama", "War"]}, "rating": "5", "timestamp": "884197193"}
+
+2023-11-26 16:22:16,679 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "286", "title": "English Patient, The (1996)", "genres": ["Drama", "Romance", "War"]}, "rating": "5", "timestamp": "884196209"}
+
+2023-11-26 16:22:18,683 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "462", "title": "Like Water For Chocolate (Como agua para chocolate) (1992)", "genres": ["Drama", "Romance"]}, "rating": "4", "timestamp": "884197330"}
+
+2023-11-26 16:22:20,686 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "845", "title": "That Thing You Do! (1996)", "genres": ["Comedy"]}, "rating": "5", "timestamp": "884196689"}
+
+2023-11-26 16:22:22,689 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "250", "title": "Fifth Element, The (1997)", "genres": ["Action", "Sci-Fi"]}, "rating": "2", "timestamp": "884196689"}
+
+2023-11-26 16:22:24,692 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "186", "title": "Blues Brothers, The (1980)", "genres": ["Action", "Comedy", "Musical"]}, "rating": "3", "timestamp": "884199624"}
+
+2023-11-26 16:22:26,695 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "315", "title": "Apt Pupil (1998)", "genres": ["Drama", "Thriller"]}, "rating": "5", "timestamp": "884196351"}
+
+2023-11-26 16:22:28,697 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "279", "title": "Once Upon a Time... When We Were Colored (1995)", "genres": ["Drama"]}, "rating": "4", "timestamp": "884196640"}
+
+2023-11-26 16:22:30,700 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "238", "title": "Raising Arizona (1987)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "884199624"}
+
+2023-11-26 16:22:32,703 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "259", "title": "George of the Jungle (1997)", "genres": ["Children", "Comedy"]}, "rating": "1", "timestamp": "884196374"}
+
+2023-11-26 16:22:34,706 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "211", "title": "M*A*S*H (1970)", "genres": ["Comedy", "War"]}, "rating": "4", "timestamp": "884197068"}
+
+2023-11-26 16:22:36,709 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "210", "title": "Indiana Jones and the Last Crusade (1989)", "genres": ["Action", "Adventure"]}, "rating": "3", "timestamp": "884197308"}
+
+2023-11-26 16:22:38,711 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "475", "title": "Trainspotting (1996)", "genres": ["Drama"]}, "rating": "4", "timestamp": "884196555"}
+
+2023-11-26 16:22:40,714 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "50", "title": "Star Wars (1977)", "genres": ["Action", "Adventure", "Romance", "Sci-Fi", "War"]}, "rating": "5", "timestamp": "884196469"}
+
+2023-11-26 16:22:42,721 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "187", "title": "Godfather: Part II, The (1974)", "genres": ["Action", "Crime", "Drama"]}, "rating": "5", "timestamp": "884198772"}
+
+2023-11-26 16:22:44,725 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "289", "title": "Evita (1996)", "genres": ["Drama", "Musical"]}, "rating": "3", "timestamp": "884196351"}
+
+2023-11-26 16:22:46,729 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "150", "title": "Swingers (1996)", "genres": ["Comedy", "Drama"]}, "rating": "1", "timestamp": "884196556"}
+
+2023-11-26 16:22:48,732 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "55", "title": "Professional, The (1994)", "genres": ["Crime", "Drama", "Romance", "Thriller"]}, "rating": "5", "timestamp": "884197287"}
+
+2023-11-26 16:22:50,736 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "121", "title": "Independence Day (ID4) (1996)", "genres": ["Action", "Sci-Fi", "War"]}, "rating": "5", "timestamp": "884196689"}
+
+2023-11-26 16:22:52,739 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "301", "title": "In & Out (1997)", "genres": ["Comedy"]}, "rating": "5", "timestamp": "884196284"}
+
+2023-11-26 16:22:54,747 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "284", "title": "Tin Cup (1996)", "genres": ["Comedy", "Romance"]}, "rating": "4", "timestamp": "884196805"}
+
+2023-11-26 16:22:56,750 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "22", "title": "Braveheart (1995)", "genres": ["Action", "Drama", "War"]}, "rating": "4", "timestamp": "884197068"}
+
+2023-11-26 16:22:58,754 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "961", "title": "Orlando (1993)", "genres": ["Drama"]}, "rating": "5", "timestamp": "884197287"}
+
+2023-11-26 16:23:00,757 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "240", "title": "Beavis and Butt-head Do America (1996)", "genres": ["Animation", "Comedy"]}, "rating": "1", "timestamp": "884196765"}
+
+2023-11-26 16:23:02,759 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "292", "title": "Rosewood (1997)", "genres": ["Drama"]}, "rating": "5", "timestamp": "884196057"}
+
+2023-11-26 16:23:04,762 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "293", "title": "Donnie Brasco (1997)", "genres": ["Crime", "Drama"]}, "rating": "5", "timestamp": "884196765"}
+
+2023-11-26 16:23:06,765 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "13", "title": "Mighty Aphrodite (1995)", "genres": ["Comedy"]}, "rating": "3", "timestamp": "884196665"}
+
+2023-11-26 16:23:08,768 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "632", "title": "Sophie's Choice (1982)", "genres": ["Drama"]}, "rating": "5", "timestamp": "884197264"}
+
+2023-11-26 16:23:10,771 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "948", "title": "Booty Call (1997)", "genres": ["Comedy", "Romance"]}, "rating": "1", "timestamp": "884196149"}
+
+2023-11-26 16:23:12,775 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "287", "title": "Marvin's Room (1996)", "genres": ["Drama"]}, "rating": "4", "timestamp": "884196765"}
+
+2023-11-26 16:23:14,776 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "659", "title": "Arsenic and Old Lace (1944)", "genres": ["Comedy", "Mystery", "Thriller"]}, "rating": "5", "timestamp": "884198772"}
+
+2023-11-26 16:23:16,780 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "696", "title": "City Hall (1996)", "genres": ["Drama", "Thriller"]}, "rating": "4", "timestamp": "884196805"}
+
+2023-11-26 16:23:18,783 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "269", "title": "Full Monty, The (1997)", "genres": ["Comedy"]}, "rating": "5", "timestamp": "884196258"}
+
+2023-11-26 16:23:20,786 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "179", "title": "Clockwork Orange, A (1971)", "genres": ["Sci-Fi"]}, "rating": "4", "timestamp": "884197419"}
+
+2023-11-26 16:23:22,790 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "654", "title": "Chinatown (1974)", "genres": ["Film-Noir", "Mystery", "Thriller"]}, "rating": "5", "timestamp": "884197419"}
+
+2023-11-26 16:23:24,793 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "9", "title": "Dead Man Walking (1995)", "genres": ["Drama"]}, "rating": "4", "timestamp": "884196523"}
+
+2023-11-26 16:23:26,796 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "923", "title": "Raise the Red Lantern (1991)", "genres": ["Drama"]}, "rating": "5", "timestamp": "884197193"}
+
+2023-11-26 16:23:28,800 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "285", "title": "Secrets & Lies (1996)", "genres": ["Drama"]}, "rating": "5", "timestamp": "884196469"}
+
+2023-11-26 16:23:30,803 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "251", "title": "Shall We Dance? (1996)", "genres": ["Comedy"]}, "rating": "5", "timestamp": "884196523"}
+
+2023-11-26 16:23:32,806 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "663", "title": "Being There (1979)", "genres": ["Comedy"]}, "rating": "5", "timestamp": "884198772"}
+
+2023-11-26 16:23:34,808 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "125", "title": "Phenomenon (1996)", "genres": ["Drama", "Romance"]}, "rating": "5", "timestamp": "884196985"}
+
+2023-11-26 16:23:36,811 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "523", "title": "Cool Hand Luke (1967)", "genres": ["Comedy", "Drama"]}, "rating": "4", "timestamp": "884197235"}
+
+2023-11-26 16:23:38,814 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "963", "title": "Some Folks Call It a Sling Blade (1993)", "genres": ["Drama", "Thriller"]}, "rating": "5", "timestamp": "884197352"}
+
+2023-11-26 16:23:40,818 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "180", "title": "Apocalypse Now (1979)", "genres": ["Drama", "War"]}, "rating": "5", "timestamp": "884198772"}
+
+2023-11-26 16:23:42,821 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "950", "title": "Georgia (1995)", "genres": ["Drama"]}, "rating": "4", "timestamp": "884196741"}
+
+2023-11-26 16:23:44,823 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "221", "title": "Breaking the Waves (1996)", "genres": ["Drama"]}, "rating": "5", "timestamp": "884196524"}
+
+2023-11-26 16:23:46,826 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "114", "title": "Wallace & Gromit: The Best of Aardman Animation (1996)", "genres": ["Animation"]}, "rating": "5", "timestamp": "884198772"}
+
+2023-11-26 16:23:48,829 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "24", "title": "Rumble in the Bronx (1995)", "genres": ["Action", "Adventure", "Crime"]}, "rating": "2", "timestamp": "884196605"}
+
+2023-11-26 16:23:50,833 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "510", "title": "Magnificent Seven, The (1954)", "genres": ["Action", "Drama", "Western"]}, "rating": "5", "timestamp": "884197264"}
+
+2023-11-26 16:23:52,837 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "435", "title": "Butch Cassidy and the Sundance Kid (1969)", "genres": ["Action", "Comedy", "Western"]}, "rating": "5", "timestamp": "884197108"}
+
+2023-11-26 16:23:54,839 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "429", "title": "Day the Earth Stood Still, The (1951)", "genres": ["Drama", "Sci-Fi"]}, "rating": "5", "timestamp": "884197330"}
+
+2023-11-26 16:23:56,842 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "1160", "title": "Love! Valour! Compassion! (1997)", "genres": ["Drama", "Romance"]}, "rating": "4", "timestamp": "884196964"}
+
+2023-11-26 16:23:58,845 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "282", "title": "Time to Kill, A (1996)", "genres": ["Drama"]}, "rating": "4", "timestamp": "884196712"}
+
+2023-11-26 16:24:00,848 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "1142", "title": "When We Were Kings (1996)", "genres": ["Documentary"]}, "rating": "5", "timestamp": "884196524"}
+
+2023-11-26 16:24:02,852 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "898", "title": "Postman, The (1997)", "genres": ["Drama"]}, "rating": "4", "timestamp": "884196284"}
+
+2023-11-26 16:24:04,855 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "1007", "title": "Waiting for Guffman (1996)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "884196921"}
+
+2023-11-26 16:24:06,858 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "309", "title": "Deceiver (1997)", "genres": ["Crime"]}, "rating": "1", "timestamp": "884196209"}
+
+2023-11-26 16:24:08,862 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "83", "title": "Much Ado About Nothing (1993)", "genres": ["Comedy", "Romance"]}, "rating": "5", "timestamp": "884199624"}
+
+2023-11-26 16:24:10,866 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "482", "title": "Some Like It Hot (1959)", "genres": ["Comedy", "Crime"]}, "rating": "5", "timestamp": "884197330"}
+
+2023-11-26 16:24:12,871 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "276", "title": "Leaving Las Vegas (1995)", "genres": ["Drama", "Romance"]}, "rating": "5", "timestamp": "884198772"}
+
+2023-11-26 16:24:14,875 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "855", "title": "Diva (1981)", "genres": ["Action", "Drama", "Mystery", "Romance", "Thriller"]}, "rating": "5", "timestamp": "884197352"}
+
+2023-11-26 16:24:16,878 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "313", "title": "Titanic (1997)", "genres": ["Action", "Drama", "Romance"]}, "rating": "5", "timestamp": "884196114"}
+
+2023-11-26 16:24:18,881 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "469", "title": "Short Cuts (1993)", "genres": ["Drama"]}, "rating": "5", "timestamp": "884197264"}
+
+2023-11-26 16:24:20,884 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "528", "title": "Killing Fields, The (1984)", "genres": ["Drama", "War"]}, "rating": "5", "timestamp": "884197068"}
+
+2023-11-26 16:24:22,889 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "846", "title": "To Gillian on Her 37th Birthday (1996)", "genres": ["Drama", "Romance"]}, "rating": "2", "timestamp": "884196985"}
+
+2023-11-26 16:24:24,892 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "1284", "title": "Before and After (1996)", "genres": ["Drama", "Mystery"]}, "rating": "4", "timestamp": "884196765"}
+
+2023-11-26 16:24:26,896 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "244", "title": "Smilla's Sense of Snow (1997)", "genres": ["Action", "Drama", "Thriller"]}, "rating": "1", "timestamp": "884196896"}
+
+2023-11-26 16:24:28,899 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "1073", "title": "Shallow Grave (1994)", "genres": ["Thriller"]}, "rating": "5", "timestamp": "884197330"}
+
+2023-11-26 16:24:30,902 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "652", "title": "Rosencrantz and Guildenstern Are Dead (1990)", "genres": ["Comedy", "Drama"]}, "rating": "4", "timestamp": "884197068"}
+
+2023-11-26 16:24:32,905 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "544", "title": "Things to Do in Denver when You're Dead (1995)", "genres": ["Crime", "Drama", "Romance"]}, "rating": "4", "timestamp": "884196938"}
+
+2023-11-26 16:24:34,908 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "628", "title": "Sleepers (1996)", "genres": ["Crime", "Drama"]}, "rating": "5", "timestamp": "884196640"}
+
+2023-11-26 16:24:36,911 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "124", "title": "Lone Star (1996)", "genres": ["Drama", "Mystery"]}, "rating": "5", "timestamp": "884196555"}
+
+2023-11-26 16:24:38,914 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "521", "title": "Deer Hunter, The (1978)", "genres": ["Drama", "War"]}, "rating": "4", "timestamp": "884197091"}
+
+2023-11-26 16:24:40,917 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "45", "title": "Eat Drink Man Woman (1994)", "genres": ["Comedy", "Drama"]}, "rating": "5", "timestamp": "884197419"}
+
+2023-11-26 16:24:42,921 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "297", "title": "Ulee's Gold (1997)", "genres": ["Drama"]}, "rating": "4", "timestamp": "884196665"}
+
+2023-11-26 16:24:44,926 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "1009", "title": "Stealing Beauty (1996)", "genres": ["Drama"]}, "rating": "3", "timestamp": "884196921"}
+
+2023-11-26 16:24:46,927 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "19", "title": "Antonia's Line (1995)", "genres": ["Drama"]}, "rating": "5", "timestamp": "884196524"}
+
+2023-11-26 16:24:48,931 - INFO - Returned message: {"userId": "296", "movie": {"movieId": "1251", "title": "A Chef in Love (1996)", "genres": ["Comedy"]}, "rating": "5", "timestamp": "884196469"}
+
+2023-11-26 16:24:50,934 - INFO - Returned message: {"userId": "34", "movie": {"movieId": "242", "title": "Kolya (1996)", "genres": ["Comedy"]}, "rating": "5", "timestamp": "888601628"}
+
+2023-11-26 16:24:52,937 - INFO - Returned message: {"userId": "34", "movie": {"movieId": "332", "title": "Kiss the Girls (1997)", "genres": ["Crime", "Drama", "Thriller"]}, "rating": "5", "timestamp": "888602742"}
+
+2023-11-26 16:24:54,941 - INFO - Returned message: {"userId": "34", "movie": {"movieId": "288", "title": "Scream (1996)", "genres": ["Horror", "Thriller"]}, "rating": "2", "timestamp": "888601628"}
+
+2023-11-26 16:24:56,943 - INFO - Returned message: {"userId": "34", "movie": {"movieId": "690", "title": "Seven Years in Tibet (1997)", "genres": ["Drama", "War"]}, "rating": "4", "timestamp": "888602513"}
+
+2023-11-26 16:24:58,946 - INFO - Returned message: {"userId": "34", "movie": {"movieId": "294", "title": "Liar Liar (1997)", "genres": ["Comedy"]}, "rating": "1", "timestamp": "888602808"}
+
+2023-11-26 16:25:00,950 - INFO - Returned message: {"userId": "34", "movie": {"movieId": "245", "title": "Devil's Own, The (1997)", "genres": ["Action", "Drama", "Thriller", "War"]}, "rating": "4", "timestamp": "888602923"}
+
+2023-11-26 16:25:02,951 - INFO - Returned message: {"userId": "34", "movie": {"movieId": "286", "title": "English Patient, The (1996)", "genres": ["Drama", "Romance", "War"]}, "rating": "5", "timestamp": "888602513"}
+
+2023-11-26 16:25:04,954 - INFO - Returned message: {"userId": "34", "movie": {"movieId": "259", "title": "George of the Jungle (1997)", "genres": ["Children", "Comedy"]}, "rating": "2", "timestamp": "888602808"}
+
+2023-11-26 16:25:06,958 - INFO - Returned message: {"userId": "34", "movie": {"movieId": "289", "title": "Evita (1996)", "genres": ["Drama", "Musical"]}, "rating": "1", "timestamp": "888602950"}
+
+2023-11-26 16:25:08,959 - INFO - Returned message: {"userId": "34", "movie": {"movieId": "292", "title": "Rosewood (1997)", "genres": ["Drama"]}, "rating": "5", "timestamp": "888602742"}
+
+2023-11-26 16:25:10,964 - INFO - Returned message: {"userId": "34", "movie": {"movieId": "324", "title": "Lost Highway (1997)", "genres": ["Mystery"]}, "rating": "5", "timestamp": "888602808"}
+
+2023-11-26 16:25:12,968 - INFO - Returned message: {"userId": "34", "movie": {"movieId": "310", "title": "Rainmaker, The (1997)", "genres": ["Drama"]}, "rating": "4", "timestamp": "888601628"}
+
+2023-11-26 16:25:14,972 - INFO - Returned message: {"userId": "34", "movie": {"movieId": "299", "title": "Hoodlum (1997)", "genres": ["Crime", "Drama", "Film-Noir"]}, "rating": "5", "timestamp": "888602923"}
+
+2023-11-26 16:25:16,976 - INFO - Returned message: {"userId": "34", "movie": {"movieId": "898", "title": "Postman, The (1997)", "genres": ["Drama"]}, "rating": "5", "timestamp": "888602842"}
+
+2023-11-26 16:25:18,978 - INFO - Returned message: {"userId": "34", "movie": {"movieId": "312", "title": "Midnight in the Garden of Good and Evil (1997)", "genres": ["Comedy", "Crime", "Drama", "Mystery"]}, "rating": "4", "timestamp": "888602742"}
+
+2023-11-26 16:25:20,981 - INFO - Returned message: {"userId": "34", "movie": {"movieId": "990", "title": "Anna Karenina (1997)", "genres": ["Drama", "Romance"]}, "rating": "5", "timestamp": "888602808"}
+
+2023-11-26 16:25:22,986 - INFO - Returned message: {"userId": "34", "movie": {"movieId": "329", "title": "Desperate Measures (1998)", "genres": ["Crime", "Drama", "Thriller"]}, "rating": "5", "timestamp": "888602808"}
+
+2023-11-26 16:25:24,990 - INFO - Returned message: {"userId": "34", "movie": {"movieId": "991", "title": "Keys to Tulsa (1997)", "genres": ["Crime"]}, "rating": "4", "timestamp": "888602618"}
+
+2023-11-26 16:25:26,994 - INFO - Returned message: {"userId": "34", "movie": {"movieId": "1024", "title": "Mrs. Dalloway (1997)", "genres": ["Romance"]}, "rating": "5", "timestamp": "888602618"}
+
+2023-11-26 16:25:28,997 - INFO - Returned message: {"userId": "34", "movie": {"movieId": "899", "title": "Winter Guest, The (1997)", "genres": ["Drama"]}, "rating": "5", "timestamp": "888603123"}
+
+2023-11-26 16:25:31,001 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "242", "title": "Kolya (1996)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "885844495"}
+
+2023-11-26 16:25:33,002 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "302", "title": "L.A. Confidential (1997)", "genres": ["Crime", "Film-Noir", "Mystery", "Thriller"]}, "rating": "5", "timestamp": "885844430"}
+
+2023-11-26 16:25:35,006 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "51", "title": "Legends of the Fall (1994)", "genres": ["Drama", "Romance", "War", "Western"]}, "rating": "4", "timestamp": "885849386"}
+
+2023-11-26 16:25:37,007 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "346", "title": "Jackie Brown (1997)", "genres": ["Crime", "Drama"]}, "rating": "4", "timestamp": "885844430"}
+
+2023-11-26 16:25:39,011 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "474", "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)", "genres": ["Sci-Fi", "War"]}, "rating": "3", "timestamp": "885848518"}
+
+2023-11-26 16:25:41,015 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "265", "title": "Hunt for Red October, The (1990)", "genres": ["Action", "Thriller"]}, "rating": "5", "timestamp": "885849275"}
+
+2023-11-26 16:25:43,018 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "451", "title": "Grease (1978)", "genres": ["Comedy", "Musical", "Romance"]}, "rating": "3", "timestamp": "885849447"}
+
+2023-11-26 16:25:45,022 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "257", "title": "Men in Black (1997)", "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"]}, "rating": "4", "timestamp": "886106038"}
+
+2023-11-26 16:25:47,025 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "40", "title": "To Wong Foo, Thanks for Everything! Julie Newmar (1995)", "genres": ["Comedy"]}, "rating": "1", "timestamp": "885849558"}
+
+2023-11-26 16:25:49,028 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "274", "title": "Sabrina (1995)", "genres": ["Comedy", "Romance"]}, "rating": "3", "timestamp": "885848014"}
+
+2023-11-26 16:25:51,031 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "392", "title": "Man Without a Face, The (1993)", "genres": ["Drama"]}, "rating": "3", "timestamp": "885848343"}
+
+2023-11-26 16:25:53,035 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "118", "title": "Twister (1996)", "genres": ["Action", "Adventure", "Thriller"]}, "rating": "3", "timestamp": "885848132"}
+
+2023-11-26 16:25:55,038 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "1", "title": "Toy Story (1995)", "genres": ["Animation", "Children", "Comedy"]}, "rating": "3", "timestamp": "886106038"}
+
+2023-11-26 16:25:57,041 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "546", "title": "Broken Arrow (1996)", "genres": ["Action", "Thriller"]}, "rating": "2", "timestamp": "885848102"}
+
+2023-11-26 16:25:59,046 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "95", "title": "Aladdin (1992)", "genres": ["Animation", "Children", "Comedy", "Musical"]}, "rating": "4", "timestamp": "885848916"}
+
+2023-11-26 16:26:01,049 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "277", "title": "Restoration (1995)", "genres": ["Drama"]}, "rating": "4", "timestamp": "885847714"}
+
+2023-11-26 16:26:03,050 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "234", "title": "Jaws (1975)", "genres": ["Action", "Horror"]}, "rating": "5", "timestamp": "885848640"}
+
+2023-11-26 16:26:05,054 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "98", "title": "Silence of the Lambs, The (1991)", "genres": ["Drama", "Thriller"]}, "rating": "5", "timestamp": "885848559"}
+
+2023-11-26 16:26:07,057 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "193", "title": "Right Stuff, The (1983)", "genres": ["Drama"]}, "rating": "5", "timestamp": "885848475"}
+
+2023-11-26 16:26:09,060 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "88", "title": "Sleepless in Seattle (1993)", "genres": ["Comedy", "Romance"]}, "rating": "4", "timestamp": "885849087"}
+
+2023-11-26 16:26:11,063 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "194", "title": "Sting, The (1973)", "genres": ["Comedy", "Crime"]}, "rating": "5", "timestamp": "885848770"}
+
+2023-11-26 16:26:13,066 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "603", "title": "Rear Window (1954)", "genres": ["Mystery", "Thriller"]}, "rating": "4", "timestamp": "885848802"}
+
+2023-11-26 16:26:15,070 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "241", "title": "Last of the Mohicans, The (1992)", "genres": ["Action", "Romance", "War"]}, "rating": "3", "timestamp": "885849207"}
+
+2023-11-26 16:26:17,074 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "4", "title": "Get Shorty (1995)", "genres": ["Action", "Comedy", "Drama"]}, "rating": "5", "timestamp": "885849357"}
+
+2023-11-26 16:26:19,077 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "100", "title": "Fargo (1996)", "genres": ["Crime", "Drama", "Thriller"]}, "rating": "5", "timestamp": "885847738"}
+
+2023-11-26 16:26:21,080 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "181", "title": "Return of the Jedi (1983)", "genres": ["Action", "Adventure", "Romance", "Sci-Fi", "War"]}, "rating": "5", "timestamp": "885848707"}
+
+2023-11-26 16:26:23,084 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "196", "title": "Dead Poets Society (1989)", "genres": ["Drama"]}, "rating": "4", "timestamp": "885848886"}
+
+2023-11-26 16:26:25,087 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "384", "title": "Naked Gun 33 1/3: The Final Insult (1994)", "genres": ["Comedy"]}, "rating": "3", "timestamp": "885849582"}
+
+2023-11-26 16:26:27,090 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "423", "title": "E.T. the Extra-Terrestrial (1982)", "genres": ["Children", "Drama", "Fantasy", "Sci-Fi"]}, "rating": "4", "timestamp": "885848802"}
+
+2023-11-26 16:26:29,093 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "515", "title": "Boot, Das (1981)", "genres": ["Action", "Drama", "War"]}, "rating": "5", "timestamp": "885848558"}
+
+2023-11-26 16:26:31,096 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "526", "title": "Ben-Hur (1959)", "genres": ["Action", "Adventure", "Drama"]}, "rating": "5", "timestamp": "885849188"}
+
+2023-11-26 16:26:33,098 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "427", "title": "To Kill a Mockingbird (1962)", "genres": ["Drama"]}, "rating": "5", "timestamp": "885848518"}
+
+2023-11-26 16:26:35,101 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "15", "title": "Mr. Holland's Opus (1995)", "genres": ["Drama"]}, "rating": "3", "timestamp": "885847876"}
+
+2023-11-26 16:26:37,103 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "690", "title": "Seven Years in Tibet (1997)", "genres": ["Drama", "War"]}, "rating": "4", "timestamp": "885844430"}
+
+2023-11-26 16:26:39,106 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "248", "title": "Grosse Pointe Blank (1997)", "genres": ["Comedy", "Crime"]}, "rating": "4", "timestamp": "886106129"}
+
+2023-11-26 16:26:41,110 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "237", "title": "Jerry Maguire (1996)", "genres": ["Drama", "Romance"]}, "rating": "4", "timestamp": "885847763"}
+
+2023-11-26 16:26:43,113 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "480", "title": "North by Northwest (1959)", "genres": ["Comedy", "Thriller"]}, "rating": "4", "timestamp": "885848475"}
+
+2023-11-26 16:26:45,116 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "54", "title": "Outbreak (1995)", "genres": ["Action", "Drama", "Thriller"]}, "rating": "3", "timestamp": "885849188"}
+
+2023-11-26 16:26:47,119 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "518", "title": "Miller's Crossing (1990)", "genres": ["Drama"]}, "rating": "4", "timestamp": "885849357"}
+
+2023-11-26 16:26:49,122 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "111", "title": "Truth About Cats & Dogs, The (1996)", "genres": ["Comedy", "Romance"]}, "rating": "4", "timestamp": "885847956"}
+
+2023-11-26 16:26:51,126 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "625", "title": "Sword in the Stone, The (1963)", "genres": ["Animation", "Children"]}, "rating": "3", "timestamp": "885849606"}
+
+2023-11-26 16:26:53,129 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "338", "title": "Bean (1997)", "genres": ["Comedy"]}, "rating": "1", "timestamp": "885847194"}
+
+2023-11-26 16:26:55,132 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "25", "title": "Birdcage, The (1996)", "genres": ["Comedy"]}, "rating": "3", "timestamp": "885847876"}
+
+2023-11-26 16:26:57,134 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "275", "title": "Sense and Sensibility (1995)", "genres": ["Drama", "Romance"]}, "rating": "4", "timestamp": "885847693"}
+
+2023-11-26 16:26:59,137 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "498", "title": "African Queen, The (1951)", "genres": ["Action", "Adventure", "Romance", "War"]}, "rating": "5", "timestamp": "885848672"}
+
+2023-11-26 16:27:01,140 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "294", "title": "Liar Liar (1997)", "genres": ["Comedy"]}, "rating": "2", "timestamp": "885844698"}
+
+2023-11-26 16:27:03,144 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "208", "title": "Young Frankenstein (1974)", "genres": ["Comedy", "Horror"]}, "rating": "4", "timestamp": "885848916"}
+
+2023-11-26 16:27:05,147 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "328", "title": "Conspiracy Theory (1997)", "genres": ["Action", "Mystery", "Romance", "Thriller"]}, "rating": "2", "timestamp": "885844746"}
+
+2023-11-26 16:27:07,150 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "496", "title": "It's a Wonderful Life (1946)", "genres": ["Drama"]}, "rating": "5", "timestamp": "885849140"}
+
+2023-11-26 16:27:09,153 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "132", "title": "Wizard of Oz, The (1939)", "genres": ["Adventure", "Children", "Drama", "Musical"]}, "rating": "5", "timestamp": "885848672"}
+
+2023-11-26 16:27:11,156 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "174", "title": "Raiders of the Lost Ark (1981)", "genres": ["Action", "Adventure"]}, "rating": "5", "timestamp": "885848314"}
+
+2023-11-26 16:27:13,160 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "648", "title": "Quiet Man, The (1952)", "genres": ["Comedy", "Romance"]}, "rating": "4", "timestamp": "885848770"}
+
+2023-11-26 16:27:15,163 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "514", "title": "Annie Hall (1977)", "genres": ["Comedy", "Romance"]}, "rating": "4", "timestamp": "885848408"}
+
+2023-11-26 16:27:17,166 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "485", "title": "My Fair Lady (1964)", "genres": ["Musical", "Romance"]}, "rating": "4", "timestamp": "885848827"}
+
+2023-11-26 16:27:19,170 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "317", "title": "In the Name of the Father (1993)", "genres": ["Drama"]}, "rating": "3", "timestamp": "885848863"}
+
+2023-11-26 16:27:21,173 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "200", "title": "Shining, The (1980)", "genres": ["Horror"]}, "rating": "5", "timestamp": "885849356"}
+
+2023-11-26 16:27:23,176 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "750", "title": "Amistad (1997)", "genres": ["Drama"]}, "rating": "4", "timestamp": "885844698"}
+
+2023-11-26 16:27:25,180 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "135", "title": "2001: A Space Odyssey (1968)", "genres": ["Drama", "Mystery", "Sci-Fi", "Thriller"]}, "rating": "4", "timestamp": "885848373"}
+
+2023-11-26 16:27:27,183 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "471", "title": "Courage Under Fire (1996)", "genres": ["Drama", "War"]}, "rating": "3", "timestamp": "885847926"}
+
+2023-11-26 16:27:29,186 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "815", "title": "One Fine Day (1996)", "genres": ["Drama", "Romance"]}, "rating": "3", "timestamp": "885848153"}
+
+2023-11-26 16:27:31,189 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "479", "title": "Vertigo (1958)", "genres": ["Mystery", "Thriller"]}, "rating": "4", "timestamp": "885848615"}
+
+2023-11-26 16:27:33,193 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "272", "title": "Good Will Hunting (1997)", "genres": ["Drama"]}, "rating": "3", "timestamp": "885844583"}
+
+2023-11-26 16:27:35,195 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "756", "title": "Father of the Bride Part II (1995)", "genres": ["Comedy"]}, "rating": "2", "timestamp": "885848218"}
+
+2023-11-26 16:27:37,198 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "419", "title": "Mary Poppins (1964)", "genres": ["Children", "Comedy", "Musical"]}, "rating": "3", "timestamp": "885848996"}
+
+2023-11-26 16:27:39,202 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "405", "title": "Mission: Impossible (1996)", "genres": ["Action", "Adventure", "Mystery"]}, "rating": "2", "timestamp": "885848179"}
+
+2023-11-26 16:27:41,205 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "504", "title": "Bonnie and Clyde (1967)", "genres": ["Crime", "Drama"]}, "rating": "3", "timestamp": "885849025"}
+
+2023-11-26 16:27:43,208 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "466", "title": "Red Rock West (1992)", "genres": ["Thriller"]}, "rating": "4", "timestamp": "885849490"}
+
+2023-11-26 16:27:45,211 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "117", "title": "Rock, The (1996)", "genres": ["Action", "Adventure", "Thriller"]}, "rating": "3", "timestamp": "886106003"}
+
+2023-11-26 16:27:47,214 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "177", "title": "Good, The Bad and The Ugly, The (1966)", "genres": ["Action", "Western"]}, "rating": "3", "timestamp": "885848373"}
+
+2023-11-26 16:27:49,217 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "2", "title": "GoldenEye (1995)", "genres": ["Action", "Adventure", "Thriller"]}, "rating": "1", "timestamp": "885849386"}
+
+2023-11-26 16:27:51,221 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "137", "title": "Big Night (1996)", "genres": ["Drama"]}, "rating": "4", "timestamp": "885847636"}
+
+2023-11-26 16:27:53,224 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "443", "title": "Birds, The (1963)", "genres": ["Horror"]}, "rating": "3", "timestamp": "885848943"}
+
+2023-11-26 16:27:55,225 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "79", "title": "Fugitive, The (1993)", "genres": ["Action", "Thriller"]}, "rating": "4", "timestamp": "885848672"}
+
+2023-11-26 16:27:57,228 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "258", "title": "Contact (1997)", "genres": ["Drama", "Sci-Fi"]}, "rating": "3", "timestamp": "885847357"}
+
+2023-11-26 16:27:59,231 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "172", "title": "Empire Strikes Back, The (1980)", "genres": ["Action", "Adventure", "Drama", "Romance", "Sci-Fi", "War"]}, "rating": "5", "timestamp": "885848616"}
+
+2023-11-26 16:28:01,234 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "216", "title": "When Harry Met Sally... (1989)", "genres": ["Comedy", "Romance"]}, "rating": "5", "timestamp": "885848672"}
+
+2023-11-26 16:28:03,236 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "48", "title": "Hoop Dreams (1994)", "genres": ["Documentary"]}, "rating": "4", "timestamp": "885849087"}
+
+2023-11-26 16:28:05,239 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "77", "title": "Firm, The (1993)", "genres": ["Drama", "Thriller"]}, "rating": "4", "timestamp": "885849231"}
+
+2023-11-26 16:28:07,243 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "476", "title": "First Wives Club, The (1996)", "genres": ["Comedy"]}, "rating": "1", "timestamp": "885848062"}
+
+2023-11-26 16:28:09,246 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "220", "title": "Mirror Has Two Faces, The (1996)", "genres": ["Comedy", "Romance"]}, "rating": "3", "timestamp": "885848179"}
+
+2023-11-26 16:28:11,249 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "202", "title": "Groundhog Day (1993)", "genres": ["Comedy", "Romance"]}, "rating": "4", "timestamp": "885849025"}
+
+2023-11-26 16:28:13,253 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "235", "title": "Mars Attacks! (1996)", "genres": ["Action", "Comedy", "Sci-Fi", "War"]}, "rating": "3", "timestamp": "885848062"}
+
+2023-11-26 16:28:15,256 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "347", "title": "Wag the Dog (1997)", "genres": ["Comedy", "Drama"]}, "rating": "3", "timestamp": "885844634"}
+
+2023-11-26 16:28:17,258 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "178", "title": "12 Angry Men (1957)", "genres": ["Drama"]}, "rating": "3", "timestamp": "885849087"}
+
+2023-11-26 16:28:19,260 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "127", "title": "Godfather, The (1972)", "genres": ["Action", "Crime", "Drama"]}, "rating": "5", "timestamp": "885848863"}
+
+2023-11-26 16:28:21,262 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "69", "title": "Forrest Gump (1994)", "genres": ["Comedy", "Romance", "War"]}, "rating": "4", "timestamp": "885848559"}
+
+2023-11-26 16:28:23,264 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "1091", "title": "Pete's Dragon (1977)", "genres": ["Adventure", "Animation", "Children", "Musical"]}, "rating": "4", "timestamp": "885849648"}
+
+2023-11-26 16:28:25,267 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "1028", "title": "Grumpier Old Men (1995)", "genres": ["Comedy", "Romance"]}, "rating": "2", "timestamp": "885848102"}
+
+2023-11-26 16:28:27,270 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "318", "title": "Schindler's List (1993)", "genres": ["Drama", "War"]}, "rating": "5", "timestamp": "885848707"}
+
+2023-11-26 16:28:29,274 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "65", "title": "What's Eating Gilbert Grape (1993)", "genres": ["Comedy", "Drama"]}, "rating": "3", "timestamp": "885849419"}
+
+2023-11-26 16:28:31,278 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "591", "title": "Primal Fear (1996)", "genres": ["Drama", "Thriller"]}, "rating": "4", "timestamp": "885847901"}
+
+2023-11-26 16:28:33,281 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "218", "title": "Cape Fear (1991)", "genres": ["Thriller"]}, "rating": "3", "timestamp": "885849087"}
+
+2023-11-26 16:28:35,284 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "56", "title": "Pulp Fiction (1994)", "genres": ["Crime", "Drama"]}, "rating": "3", "timestamp": "885848559"}
+
+2023-11-26 16:28:37,288 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "89", "title": "Blade Runner (1982)", "genres": ["Film-Noir", "Sci-Fi"]}, "rating": "3", "timestamp": "885848518"}
+
+2023-11-26 16:28:39,292 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "141", "title": "20,000 Leagues Under the Sea (1954)", "genres": ["Adventure", "Children", "Fantasy", "Sci-Fi"]}, "rating": "4", "timestamp": "885849114"}
+
+2023-11-26 16:28:41,295 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "133", "title": "Gone with the Wind (1939)", "genres": ["Drama", "Romance", "War"]}, "rating": "4", "timestamp": "885848971"}
+
+2023-11-26 16:28:43,298 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "507", "title": "Streetcar Named Desire, A (1951)", "genres": ["Drama"]}, "rating": "2", "timestamp": "885848707"}
+
+2023-11-26 16:28:45,303 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "11", "title": "Seven (Se7en) (1995)", "genres": ["Crime", "Thriller"]}, "rating": "4", "timestamp": "885848408"}
+
+2023-11-26 16:28:47,307 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "520", "title": "Great Escape, The (1963)", "genres": ["Adventure", "War"]}, "rating": "5", "timestamp": "885848615"}
+
+2023-11-26 16:28:49,310 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "198", "title": "Nikita (La Femme Nikita) (1990)", "genres": ["Thriller"]}, "rating": "4", "timestamp": "885848616"}
+
+2023-11-26 16:28:51,314 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "705", "title": "Singin' in the Rain (1952)", "genres": ["Musical", "Romance"]}, "rating": "4", "timestamp": "885849052"}
+
+2023-11-26 16:28:53,318 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "64", "title": "Shawshank Redemption, The (1994)", "genres": ["Drama"]}, "rating": "5", "timestamp": "885848863"}
+
+2023-11-26 16:28:55,320 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "357", "title": "One Flew Over the Cuckoo's Nest (1975)", "genres": ["Drama"]}, "rating": "5", "timestamp": "885848408"}
+
+2023-11-26 16:28:57,324 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "215", "title": "Field of Dreams (1989)", "genres": ["Drama"]}, "rating": "4", "timestamp": "885849300"}
+
+2023-11-26 16:28:59,328 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "204", "title": "Back to the Future (1985)", "genres": ["Comedy", "Sci-Fi"]}, "rating": "4", "timestamp": "885848314"}
+
+2023-11-26 16:29:01,333 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "191", "title": "Amadeus (1984)", "genres": ["Drama", "Mystery"]}, "rating": "5", "timestamp": "885848448"}
+
+2023-11-26 16:29:03,337 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "430", "title": "Duck Soup (1933)", "genres": ["Comedy", "War"]}, "rating": "5", "timestamp": "885849419"}
+
+2023-11-26 16:29:05,340 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "134", "title": "Citizen Kane (1941)", "genres": ["Drama"]}, "rating": "3", "timestamp": "885848518"}
+
+2023-11-26 16:29:07,344 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "410", "title": "Kingpin (1996)", "genres": ["Comedy"]}, "rating": "2", "timestamp": "885848238"}
+
+2023-11-26 16:29:09,347 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "649", "title": "Once Upon a Time in America (1984)", "genres": ["Crime", "Drama", "Thriller"]}, "rating": "3", "timestamp": "885849510"}
+
+2023-11-26 16:29:11,348 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "951", "title": "Indian in the Cupboard, The (1995)", "genres": ["Adventure", "Children", "Fantasy"]}, "rating": "2", "timestamp": "885849606"}
+
+2023-11-26 16:29:13,352 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "197", "title": "Graduate, The (1967)", "genres": ["Drama", "Romance"]}, "rating": "4", "timestamp": "885848915"}
+
+2023-11-26 16:29:15,354 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "199", "title": "Bridge on the River Kwai, The (1957)", "genres": ["Drama", "War"]}, "rating": "4", "timestamp": "885848448"}
+
+2023-11-26 16:29:17,358 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "709", "title": "Strictly Ballroom (1992)", "genres": ["Comedy", "Romance"]}, "rating": "3", "timestamp": "885849325"}
+
+2023-11-26 16:29:19,361 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "169", "title": "Wrong Trousers, The (1993)", "genres": ["Animation", "Comedy"]}, "rating": "5", "timestamp": "885848475"}
+
+2023-11-26 16:29:21,366 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "378", "title": "Miracle on 34th Street (1994)", "genres": ["Drama"]}, "rating": "4", "timestamp": "885849447"}
+
+2023-11-26 16:29:23,371 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "425", "title": "Bob Roberts (1992)", "genres": ["Comedy"]}, "rating": "2", "timestamp": "885849275"}
+
+2023-11-26 16:29:25,374 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "286", "title": "English Patient, The (1996)", "genres": ["Drama", "Romance", "War"]}, "rating": "4", "timestamp": "885844610"}
+
+2023-11-26 16:29:27,377 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "402", "title": "Ghost (1990)", "genres": ["Comedy", "Romance", "Thriller"]}, "rating": "4", "timestamp": "885849791"}
+
+2023-11-26 16:29:29,379 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "62", "title": "Stargate (1994)", "genres": ["Action", "Adventure", "Sci-Fi"]}, "rating": "2", "timestamp": "885849386"}
+
+2023-11-26 16:29:31,382 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "12", "title": "Usual Suspects, The (1995)", "genres": ["Crime", "Thriller"]}, "rating": "4", "timestamp": "885848314"}
+
+2023-11-26 16:29:33,385 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "462", "title": "Like Water For Chocolate (Como agua para chocolate) (1992)", "genres": ["Drama", "Romance"]}, "rating": "4", "timestamp": "885848448"}
+
+2023-11-26 16:29:35,388 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "845", "title": "That Thing You Do! (1996)", "genres": ["Comedy"]}, "rating": "1", "timestamp": "885847800"}
+
+2023-11-26 16:29:37,391 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "823", "title": "Mulholland Falls (1996)", "genres": ["Crime", "Film-Noir", "Thriller"]}, "rating": "3", "timestamp": "885848237"}
+
+2023-11-26 16:29:39,394 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "186", "title": "Blues Brothers, The (1980)", "genres": ["Action", "Comedy", "Musical"]}, "rating": "4", "timestamp": "885848915"}
+
+2023-11-26 16:29:41,398 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "176", "title": "Aliens (1986)", "genres": ["Action", "Sci-Fi", "Thriller", "War"]}, "rating": "3", "timestamp": "885848640"}
+
+2023-11-26 16:29:43,401 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "188", "title": "Full Metal Jacket (1987)", "genres": ["Action", "Drama", "War"]}, "rating": "2", "timestamp": "885849087"}
+
+2023-11-26 16:29:45,404 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "699", "title": "Little Women (1994)", "genres": ["Drama"]}, "rating": "4", "timestamp": "885849025"}
+
+2023-11-26 16:29:47,408 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "97", "title": "Dances with Wolves (1990)", "genres": ["Adventure", "Drama", "Western"]}, "rating": "5", "timestamp": "885848736"}
+
+2023-11-26 16:29:49,411 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "173", "title": "Princess Bride, The (1987)", "genres": ["Action", "Adventure", "Comedy", "Romance"]}, "rating": "4", "timestamp": "885848672"}
+
+2023-11-26 16:29:51,414 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "315", "title": "Apt Pupil (1998)", "genres": ["Drama", "Thriller"]}, "rating": "4", "timestamp": "885847170"}
+
+2023-11-26 16:29:53,417 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "505", "title": "Dial M for Murder (1954)", "genres": ["Mystery", "Thriller"]}, "rating": "4", "timestamp": "885848475"}
+
+2023-11-26 16:29:55,420 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "238", "title": "Raising Arizona (1987)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "885848408"}
+
+2023-11-26 16:29:57,423 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "47", "title": "Ed Wood (1994)", "genres": ["Comedy", "Drama"]}, "rating": "3", "timestamp": "885849386"}
+
+2023-11-26 16:29:59,426 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "211", "title": "M*A*S*H (1970)", "genres": ["Comedy", "War"]}, "rating": "5", "timestamp": "885849164"}
+
+2023-11-26 16:30:01,427 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "210", "title": "Indiana Jones and the Last Crusade (1989)", "genres": ["Action", "Adventure"]}, "rating": "4", "timestamp": "885848447"}
+
+2023-11-26 16:30:03,430 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "182", "title": "GoodFellas (1990)", "genres": ["Crime", "Drama"]}, "rating": "3", "timestamp": "885848408"}
+
+2023-11-26 16:30:05,434 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "50", "title": "Star Wars (1977)", "genres": ["Action", "Adventure", "Romance", "Sci-Fi", "War"]}, "rating": "5", "timestamp": "885848640"}
+
+2023-11-26 16:30:07,437 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "187", "title": "Godfather: Part II, The (1974)", "genres": ["Action", "Crime", "Drama"]}, "rating": "5", "timestamp": "885848343"}
+
+2023-11-26 16:30:09,441 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "289", "title": "Evita (1996)", "genres": ["Drama", "Musical"]}, "rating": "4", "timestamp": "885844666"}
+
+2023-11-26 16:30:11,442 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "185", "title": "Psycho (1960)", "genres": ["Horror", "Romance", "Thriller"]}, "rating": "3", "timestamp": "885848448"}
+
+2023-11-26 16:30:13,446 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "742", "title": "Ransom (1996)", "genres": ["Drama", "Thriller"]}, "rating": "3", "timestamp": "886106209"}
+
+2023-11-26 16:30:15,449 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "732", "title": "Dave (1993)", "genres": ["Comedy", "Romance"]}, "rating": "4", "timestamp": "885848672"}
+
+2023-11-26 16:30:17,451 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "168", "title": "Monty Python and the Holy Grail (1974)", "genres": ["Comedy"]}, "rating": "2", "timestamp": "885848343"}
+
+2023-11-26 16:30:19,454 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "371", "title": "Bridges of Madison County, The (1995)", "genres": ["Drama", "Romance"]}, "rating": "5", "timestamp": "885849188"}
+
+2023-11-26 16:30:21,457 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "381", "title": "Muriel's Wedding (1994)", "genres": ["Comedy", "Romance"]}, "rating": "3", "timestamp": "885849536"}
+
+2023-11-26 16:30:23,460 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "126", "title": "Spitfire Grill, The (1996)", "genres": ["Drama"]}, "rating": "3", "timestamp": "885848034"}
+
+2023-11-26 16:30:25,467 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "8", "title": "Babe (1995)", "genres": ["Children", "Comedy", "Drama"]}, "rating": "4", "timestamp": "885848770"}
+
+2023-11-26 16:30:27,471 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "58", "title": "Quiz Show (1994)", "genres": ["Drama"]}, "rating": "3", "timestamp": "885849325"}
+
+2023-11-26 16:30:29,476 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "744", "title": "Michael Collins (1996)", "genres": ["Drama", "War"]}, "rating": "4", "timestamp": "885847693"}
+
+2023-11-26 16:30:31,478 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "642", "title": "Grifters, The (1990)", "genres": ["Crime", "Drama", "Film-Noir"]}, "rating": "5", "timestamp": "885849231"}
+
+2023-11-26 16:30:33,481 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "121", "title": "Independence Day (ID4) (1996)", "genres": ["Action", "Sci-Fi", "War"]}, "rating": "2", "timestamp": "885848132"}
+
+2023-11-26 16:30:35,484 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "81", "title": "Hudsucker Proxy, The (1994)", "genres": ["Comedy", "Romance"]}, "rating": "3", "timestamp": "885849113"}
+
+2023-11-26 16:30:37,487 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "284", "title": "Tin Cup (1996)", "genres": ["Comedy", "Romance"]}, "rating": "3", "timestamp": "885847956"}
+
+2023-11-26 16:30:39,491 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "22", "title": "Braveheart (1995)", "genres": ["Action", "Drama", "War"]}, "rating": "5", "timestamp": "885848518"}
+
+2023-11-26 16:30:41,494 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "864", "title": "My Fellow Americans (1996)", "genres": ["Comedy"]}, "rating": "3", "timestamp": "886106165"}
+
+2023-11-26 16:30:43,497 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "70", "title": "Four Weddings and a Funeral (1994)", "genres": ["Comedy", "Romance"]}, "rating": "5", "timestamp": "885849164"}
+
+2023-11-26 16:30:45,500 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "13", "title": "Mighty Aphrodite (1995)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "885847714"}
+
+2023-11-26 16:30:47,503 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "739", "title": "Pretty Woman (1990)", "genres": ["Comedy", "Romance"]}, "rating": "4", "timestamp": "885849706"}
+
+2023-11-26 16:30:49,506 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "661", "title": "High Noon (1952)", "genres": ["Western"]}, "rating": "4", "timestamp": "885848373"}
+
+2023-11-26 16:30:51,510 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "692", "title": "American President, The (1995)", "genres": ["Comedy", "Drama", "Romance"]}, "rating": "4", "timestamp": "885849582"}
+
+2023-11-26 16:30:53,512 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "866", "title": "Michael (1996)", "genres": ["Comedy", "Romance"]}, "rating": "4", "timestamp": "885848132"}
+
+2023-11-26 16:30:55,516 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "707", "title": "Enchanted April (1991)", "genres": ["Drama"]}, "rating": "4", "timestamp": "885849140"}
+
+2023-11-26 16:30:57,521 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "161", "title": "Top Gun (1986)", "genres": ["Action", "Romance"]}, "rating": "2", "timestamp": "885849470"}
+
+2023-11-26 16:30:59,524 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "509", "title": "My Left Foot (1989)", "genres": ["Drama"]}, "rating": "4", "timestamp": "885848559"}
+
+2023-11-26 16:31:01,528 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "660", "title": "Fried Green Tomatoes (1991)", "genres": ["Drama"]}, "rating": "5", "timestamp": "885848971"}
+
+2023-11-26 16:31:03,529 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "44", "title": "Dolores Claiborne (1994)", "genres": ["Drama", "Thriller"]}, "rating": "4", "timestamp": "885849357"}
+
+2023-11-26 16:31:05,533 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "28", "title": "Apollo 13 (1995)", "genres": ["Action", "Drama", "Thriller"]}, "rating": "5", "timestamp": "885849025"}
+
+2023-11-26 16:31:07,536 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "729", "title": "Nell (1994)", "genres": ["Drama"]}, "rating": "4", "timestamp": "885848996"}
+
+2023-11-26 16:31:09,539 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "52", "title": "Madness of King George, The (1994)", "genres": ["Drama"]}, "rating": "4", "timestamp": "885849470"}
+
+2023-11-26 16:31:11,542 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "506", "title": "Rebel Without a Cause (1955)", "genres": ["Drama"]}, "rating": "4", "timestamp": "885849052"}
+
+2023-11-26 16:31:13,545 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "566", "title": "Clear and Present Danger (1994)", "genres": ["Action", "Adventure", "Thriller"]}, "rating": "4", "timestamp": "885848707"}
+
+2023-11-26 16:31:15,549 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "190", "title": "Henry V (1989)", "genres": ["Drama", "War"]}, "rating": "4", "timestamp": "885848707"}
+
+2023-11-26 16:31:17,552 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "487", "title": "Roman Holiday (1953)", "genres": ["Comedy", "Romance"]}, "rating": "4", "timestamp": "885848770"}
+
+2023-11-26 16:31:19,555 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "659", "title": "Arsenic and Old Lace (1944)", "genres": ["Comedy", "Mystery", "Thriller"]}, "rating": "3", "timestamp": "885848827"}
+
+2023-11-26 16:31:21,557 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "269", "title": "Full Monty, The (1997)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "885844430"}
+
+2023-11-26 16:31:23,560 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "179", "title": "Clockwork Orange, A (1971)", "genres": ["Sci-Fi"]}, "rating": "4", "timestamp": "885848616"}
+
+2023-11-26 16:31:25,563 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "654", "title": "Chinatown (1974)", "genres": ["Film-Noir", "Mystery", "Thriller"]}, "rating": "5", "timestamp": "885848475"}
+
+2023-11-26 16:31:27,566 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "461", "title": "Smoke (1995)", "genres": ["Drama"]}, "rating": "5", "timestamp": "885849582"}
+
+2023-11-26 16:31:29,571 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "9", "title": "Dead Man Walking (1995)", "genres": ["Drama"]}, "rating": "4", "timestamp": "885847738"}
+
+2023-11-26 16:31:31,573 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "203", "title": "Unforgiven (1992)", "genres": ["Western"]}, "rating": "4", "timestamp": "885848448"}
+
+2023-11-26 16:31:33,594 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "310", "title": "Rainmaker, The (1997)", "genres": ["Drama"]}, "rating": "3", "timestamp": "885844430"}
+
+2023-11-26 16:31:35,599 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "285", "title": "Secrets & Lies (1996)", "genres": ["Drama"]}, "rating": "4", "timestamp": "885847876"}
+
+2023-11-26 16:31:37,602 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "393", "title": "Mrs. Doubtfire (1993)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "885849648"}
+
+2023-11-26 16:31:39,606 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "477", "title": "Matilda (1996)", "genres": ["Children", "Comedy"]}, "rating": "3", "timestamp": "885847955"}
+
+2023-11-26 16:31:41,610 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "472", "title": "Dragonheart (1996)", "genres": ["Action", "Adventure", "Fantasy"]}, "rating": "2", "timestamp": "886106165"}
+
+2023-11-26 16:31:43,614 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "644", "title": "Thin Blue Line, The (1988)", "genres": ["Documentary"]}, "rating": "3", "timestamp": "885848916"}
+
+2023-11-26 16:31:45,618 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "511", "title": "Lawrence of Arabia (1962)", "genres": ["Adventure", "War"]}, "rating": "5", "timestamp": "885848736"}
+
+2023-11-26 16:31:47,621 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "38", "title": "Net, The (1995)", "genres": ["Sci-Fi", "Thriller"]}, "rating": "2", "timestamp": "885849648"}
+
+2023-11-26 16:31:49,625 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "131", "title": "Breakfast at Tiffany's (1961)", "genres": ["Drama", "Romance"]}, "rating": "4", "timestamp": "885849419"}
+
+2023-11-26 16:31:51,630 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "87", "title": "Searching for Bobby Fischer (1993)", "genres": ["Drama"]}, "rating": "3", "timestamp": "885848802"}
+
+2023-11-26 16:31:53,634 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "663", "title": "Being There (1979)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "885849052"}
+
+2023-11-26 16:31:55,639 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "1133", "title": "Escape to Witch Mountain (1975)", "genres": ["Adventure", "Children", "Fantasy"]}, "rating": "3", "timestamp": "885849536"}
+
+2023-11-26 16:31:57,643 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "125", "title": "Phenomenon (1996)", "genres": ["Drama", "Romance"]}, "rating": "3", "timestamp": "885848062"}
+
+2023-11-26 16:31:59,646 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "73", "title": "Maverick (1994)", "genres": ["Action", "Comedy", "Western"]}, "rating": "2", "timestamp": "885848707"}
+
+2023-11-26 16:32:01,649 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "239", "title": "Sneakers (1992)", "genres": ["Crime", "Drama", "Sci-Fi"]}, "rating": "3", "timestamp": "885849419"}
+
+2023-11-26 16:32:03,635 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "1046", "title": "Malice (1993)", "genres": ["Thriller"]}, "rating": "4", "timestamp": "885849357"}
+
+2023-11-26 16:32:05,638 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "523", "title": "Cool Hand Luke (1967)", "genres": ["Comedy", "Drama"]}, "rating": "4", "timestamp": "885848770"}
+
+2023-11-26 16:32:07,641 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "107", "title": "Moll Flanders (1996)", "genres": ["Drama"]}, "rating": "1", "timestamp": "885848179"}
+
+2023-11-26 16:32:09,646 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "963", "title": "Some Folks Call It a Sling Blade (1993)", "genres": ["Drama", "Thriller"]}, "rating": "5", "timestamp": "885848518"}
+
+2023-11-26 16:32:11,650 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "180", "title": "Apocalypse Now (1979)", "genres": ["Drama", "War"]}, "rating": "5", "timestamp": "885849087"}
+
+2023-11-26 16:32:13,655 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "148", "title": "Ghost and the Darkness, The (1996)", "genres": ["Action", "Adventure"]}, "rating": "3", "timestamp": "886106165"}
+
+2023-11-26 16:32:15,656 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "792", "title": "Bullets Over Broadway (1994)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "885849536"}
+
+2023-11-26 16:32:17,659 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "747", "title": "Benny & Joon (1993)", "genres": ["Comedy", "Romance"]}, "rating": "3", "timestamp": "885849087"}
+
+2023-11-26 16:32:19,662 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "516", "title": "Local Hero (1983)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "885849447"}
+
+2023-11-26 16:32:21,667 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "221", "title": "Breaking the Waves (1996)", "genres": ["Drama"]}, "rating": "3", "timestamp": "885847927"}
+
+2023-11-26 16:32:23,670 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "847", "title": "Looking for Richard (1996)", "genres": ["Documentary", "Drama"]}, "rating": "4", "timestamp": "885847926"}
+
+2023-11-26 16:32:25,674 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "517", "title": "Manhattan (1979)", "genres": ["Comedy", "Drama", "Romance"]}, "rating": "3", "timestamp": "885848943"}
+
+2023-11-26 16:32:27,676 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "283", "title": "Emma (1996)", "genres": ["Drama", "Romance"]}, "rating": "4", "timestamp": "885847876"}
+
+2023-11-26 16:32:29,681 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "602", "title": "American in Paris, An (1951)", "genres": ["Musical", "Romance"]}, "rating": "3", "timestamp": "885848886"}
+
+2023-11-26 16:32:31,685 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "703", "title": "Widows' Peak (1994)", "genres": ["Drama"]}, "rating": "3", "timestamp": "885848559"}
+
+2023-11-26 16:32:33,686 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "763", "title": "Happy Gilmore (1996)", "genres": ["Comedy"]}, "rating": "3", "timestamp": "885847876"}
+
+2023-11-26 16:32:35,690 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "43", "title": "Disclosure (1994)", "genres": ["Drama", "Thriller"]}, "rating": "3", "timestamp": "885849817"}
+
+2023-11-26 16:32:37,693 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "510", "title": "Magnificent Seven, The (1954)", "genres": ["Action", "Drama", "Western"]}, "rating": "4", "timestamp": "885849140"}
+
+2023-11-26 16:32:39,697 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "435", "title": "Butch Cassidy and the Sundance Kid (1969)", "genres": ["Action", "Comedy", "Western"]}, "rating": "4", "timestamp": "885848802"}
+
+2023-11-26 16:32:41,703 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "651", "title": "Glory (1989)", "genres": ["Action", "Drama", "War"]}, "rating": "4", "timestamp": "885848584"}
+
+2023-11-26 16:32:43,704 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "580", "title": "Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995)", "genres": ["Comedy", "Romance"]}, "rating": "2", "timestamp": "885849386"}
+
+2023-11-26 16:32:45,708 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "429", "title": "Day the Earth Stood Still, The (1951)", "genres": ["Drama", "Sci-Fi"]}, "rating": "4", "timestamp": "885848672"}
+
+2023-11-26 16:32:47,711 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "282", "title": "Time to Kill, A (1996)", "genres": ["Drama"]}, "rating": "2", "timestamp": "885847666"}
+
+2023-11-26 16:32:49,715 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "428", "title": "Harold and Maude (1971)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "885849188"}
+
+2023-11-26 16:32:51,719 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "300", "title": "Air Force One (1997)", "genres": ["Action", "Thriller"]}, "rating": "2", "timestamp": "885844583"}
+
+2023-11-26 16:32:53,723 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "411", "title": "Nutty Professor, The (1996)", "genres": ["Comedy", "Fantasy", "Romance", "Sci-Fi"]}, "rating": "1", "timestamp": "885848062"}
+
+2023-11-26 16:32:55,728 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "527", "title": "Gandhi (1982)", "genres": ["Drama"]}, "rating": "5", "timestamp": "885848736"}
+
+2023-11-26 16:32:57,731 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "657", "title": "Manchurian Candidate, The (1962)", "genres": ["Film-Noir", "Thriller"]}, "rating": "4", "timestamp": "885848559"}
+
+2023-11-26 16:32:59,735 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "116", "title": "Cold Comfort Farm (1995)", "genres": ["Comedy"]}, "rating": "2", "timestamp": "885847636"}
+
+2023-11-26 16:33:01,739 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "582", "title": "Piano, The (1993)", "genres": ["Drama", "Romance"]}, "rating": "3", "timestamp": "885849113"}
+
+2023-11-26 16:33:03,742 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "1101", "title": "Six Degrees of Separation (1993)", "genres": ["Drama", "Mystery"]}, "rating": "4", "timestamp": "885849025"}
+
+2023-11-26 16:33:05,745 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "312", "title": "Midnight in the Garden of Good and Evil (1997)", "genres": ["Comedy", "Crime", "Drama", "Mystery"]}, "rating": "2", "timestamp": "885847280"}
+
+2023-11-26 16:33:07,747 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "499", "title": "Cat on a Hot Tin Roof (1958)", "genres": ["Drama"]}, "rating": "3", "timestamp": "885848971"}
+
+2023-11-26 16:33:09,750 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "83", "title": "Much Ado About Nothing (1993)", "genres": ["Comedy", "Romance"]}, "rating": "4", "timestamp": "885848408"}
+
+2023-11-26 16:33:11,752 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "482", "title": "Some Like It Hot (1959)", "genres": ["Comedy", "Crime"]}, "rating": "5", "timestamp": "885848519"}
+
+2023-11-26 16:33:13,754 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "276", "title": "Leaving Las Vegas (1995)", "genres": ["Drama", "Romance"]}, "rating": "3", "timestamp": "885847800"}
+
+2023-11-26 16:33:15,757 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "539", "title": "Mouse Hunt (1997)", "genres": ["Children", "Comedy"]}, "rating": "1", "timestamp": "885847170"}
+
+2023-11-26 16:33:17,760 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "313", "title": "Titanic (1997)", "genres": ["Action", "Drama", "Romance"]}, "rating": "4", "timestamp": "885844583"}
+
+2023-11-26 16:33:19,763 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "493", "title": "Thin Man, The (1934)", "genres": ["Mystery"]}, "rating": "4", "timestamp": "885848558"}
+
+2023-11-26 16:33:21,767 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "205", "title": "Patton (1970)", "genres": ["Drama", "War"]}, "rating": "5", "timestamp": "885848343"}
+
+2023-11-26 16:33:23,772 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "494", "title": "His Girl Friday (1940)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "885848770"}
+
+2023-11-26 16:33:25,775 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "192", "title": "Raging Bull (1980)", "genres": ["Drama"]}, "rating": "5", "timestamp": "885848373"}
+
+2023-11-26 16:33:27,778 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "1139", "title": "Hackers (1995)", "genres": ["Action", "Crime", "Thriller"]}, "rating": "3", "timestamp": "885849707"}
+
+2023-11-26 16:33:29,780 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "470", "title": "Tombstone (1993)", "genres": ["Western"]}, "rating": "3", "timestamp": "885848707"}
+
+2023-11-26 16:33:31,783 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "714", "title": "Carrington (1995)", "genres": ["Drama", "Romance"]}, "rating": "3", "timestamp": "885848863"}
+
+2023-11-26 16:33:33,786 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "530", "title": "Man Who Would Be King, The (1975)", "genres": ["Adventure"]}, "rating": "4", "timestamp": "885848770"}
+
+2023-11-26 16:33:35,788 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "528", "title": "Killing Fields, The (1984)", "genres": ["Drama", "War"]}, "rating": "3", "timestamp": "885848448"}
+
+2023-11-26 16:33:37,791 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "605", "title": "Meet Me in St. Louis (1944)", "genres": ["Musical"]}, "rating": "4", "timestamp": "885849164"}
+
+2023-11-26 16:33:39,794 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "529", "title": "My Life as a Dog (Mitt liv som hund) (1985)", "genres": ["Drama"]}, "rating": "4", "timestamp": "885848475"}
+
+2023-11-26 16:33:41,798 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "244", "title": "Smilla's Sense of Snow (1997)", "genres": ["Action", "Drama", "Thriller"]}, "rating": "2", "timestamp": "886106039"}
+
+2023-11-26 16:33:43,799 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "441", "title": "Amityville Horror, The (1979)", "genres": ["Horror"]}, "rating": "3", "timestamp": "885849648"}
+
+2023-11-26 16:33:45,802 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "356", "title": "Client, The (1994)", "genres": ["Drama", "Mystery", "Thriller"]}, "rating": "4", "timestamp": "885849300"}
+
+2023-11-26 16:33:47,807 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "630", "title": "Great Race, The (1965)", "genres": ["Comedy", "Musical"]}, "rating": "2", "timestamp": "885848943"}
+
+2023-11-26 16:33:49,811 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "697", "title": "Basketball Diaries, The (1995)", "genres": ["Drama"]}, "rating": "4", "timestamp": "885848863"}
+
+2023-11-26 16:33:51,816 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "311", "title": "Wings of the Dove, The (1997)", "genres": ["Drama", "Romance", "Thriller"]}, "rating": "3", "timestamp": "885844547"}
+
+2023-11-26 16:33:53,819 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "882", "title": "Washington Square (1997)", "genres": ["Drama"]}, "rating": "3", "timestamp": "885844547"}
+
+2023-11-26 16:33:55,824 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "614", "title": "Giant (1956)", "genres": ["Drama"]}, "rating": "4", "timestamp": "885848373"}
+
+2023-11-26 16:33:57,827 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "624", "title": "Three Caballeros, The (1945)", "genres": ["Animation", "Children", "Musical"]}, "rating": "2", "timestamp": "885849558"}
+
+2023-11-26 16:33:59,830 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "345", "title": "Deconstructing Harry (1997)", "genres": ["Comedy", "Drama"]}, "rating": "3", "timestamp": "885844666"}
+
+2023-11-26 16:34:01,832 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "170", "title": "Cinema Paradiso (1988)", "genres": ["Comedy", "Drama", "Romance"]}, "rating": "5", "timestamp": "885848827"}
+
+2023-11-26 16:34:03,835 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "31", "title": "Crimson Tide (1995)", "genres": ["Drama", "Thriller", "War"]}, "rating": "4", "timestamp": "885849325"}
+
+2023-11-26 16:34:05,838 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "414", "title": "My Favorite Year (1982)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "885849470"}
+
+2023-11-26 16:34:07,842 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "490", "title": "To Catch a Thief (1955)", "genres": ["Comedy", "Romance", "Thriller"]}, "rating": "4", "timestamp": "885848886"}
+
+2023-11-26 16:34:09,848 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "124", "title": "Lone Star (1996)", "genres": ["Drama", "Mystery"]}, "rating": "4", "timestamp": "886105886"}
+
+2023-11-26 16:34:11,851 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "570", "title": "Wyatt Earp (1994)", "genres": ["Western"]}, "rating": "3", "timestamp": "885849742"}
+
+2023-11-26 16:34:13,855 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "521", "title": "Deer Hunter, The (1978)", "genres": ["Drama", "War"]}, "rating": "5", "timestamp": "885848373"}
+
+2023-11-26 16:34:15,868 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "1266", "title": "Bread and Chocolate (Pane e cioccolata) (1973)", "genres": ["Drama"]}, "rating": "2", "timestamp": "885848943"}
+
+2023-11-26 16:34:17,870 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "1411", "title": "Barbarella (1968)", "genres": ["Adventure", "Sci-Fi"]}, "rating": "2", "timestamp": "885849895"}
+
+2023-11-26 16:34:19,873 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "495", "title": "Around the World in 80 Days (1956)", "genres": ["Adventure", "Comedy"]}, "rating": "5", "timestamp": "885849052"}
+
+2023-11-26 16:34:21,877 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "481", "title": "Apartment, The (1960)", "genres": ["Comedy", "Drama"]}, "rating": "3", "timestamp": "885848559"}
+
+2023-11-26 16:34:23,880 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "136", "title": "Mr. Smith Goes to Washington (1939)", "genres": ["Drama"]}, "rating": "3", "timestamp": "885848863"}
+
+2023-11-26 16:34:25,884 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "610", "title": "Gigi (1958)", "genres": ["Musical"]}, "rating": "3", "timestamp": "885848584"}
+
+2023-11-26 16:34:27,887 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "1117", "title": "Surviving Picasso (1996)", "genres": ["Drama"]}, "rating": "3", "timestamp": "885847763"}
+
+2023-11-26 16:34:29,890 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "549", "title": "Rob Roy (1995)", "genres": ["Drama", "Romance", "War"]}, "rating": "4", "timestamp": "885849231"}
+
+2023-11-26 16:34:31,893 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "735", "title": "Philadelphia (1993)", "genres": ["Drama"]}, "rating": "4", "timestamp": "885849140"}
+
+2023-11-26 16:34:33,896 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "224", "title": "Ridicule (1996)", "genres": ["Drama"]}, "rating": "4", "timestamp": "885847876"}
+
+2023-11-26 16:34:35,899 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "924", "title": "White Squall (1996)", "genres": ["Adventure", "Drama"]}, "rating": "3", "timestamp": "885847974"}
+
+2023-11-26 16:34:37,903 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "713", "title": "Othello (1995)", "genres": ["Drama"]}, "rating": "4", "timestamp": "885847800"}
+
+2023-11-26 16:34:39,906 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "1120", "title": "I'm Not Rappaport (1996)", "genres": ["Comedy"]}, "rating": "2", "timestamp": "885847800"}
+
+2023-11-26 16:34:41,910 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "956", "title": "Nobody's Fool (1994)", "genres": ["Drama"]}, "rating": "4", "timestamp": "885848997"}
+
+2023-11-26 16:34:43,914 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "1282", "title": "Grass Harp, The (1995)", "genres": ["Drama"]}, "rating": "2", "timestamp": "885847666"}
+
+2023-11-26 16:34:45,917 - INFO - Returned message: {"userId": "271", "movie": {"movieId": "130", "title": "Kansas City (1996)", "genres": ["Crime"]}, "rating": "1", "timestamp": "885848218"}
+
+2023-11-26 16:34:47,920 - INFO - Returned message: {"userId": "201", "movie": {"movieId": "242", "title": "Kolya (1996)", "genres": ["Comedy"]}, "rating": "4", "timestamp": "884110598"}
+
+2023-11-26 16:34:49,923 - INFO - Returned message: {"userId": "201", "movie": {"movieId": "302", "title": "L.A. Confidential (1997)", "genres": ["Crime", "Film-Noir", "Mystery", "Thriller"]}, "rating": "4", "timestamp": "884110637"}
+
+2023-11-26 16:34:51,926 - INFO - Returned message: {"userId": "201", "movie": {"movieId": "51", "title": "Legends of the Fall (1994)", "genres": ["Drama", "Romance", "War", "Western"]}, "rating": "2", "timestamp": "884140751"}
+
+2023-11-26 16:34:53,930 - INFO - Returned message: {"userId": "201", "movie": {"movieId": "346", "title": "Jackie Brown (1997)", "genres": ["Crime", "Drama"]}, "rating": "4", "timestamp": "884110766"}
+
+2023-11-26 16:34:55,933 - INFO - Returned message: {"userId": "201", "movie": {"movieId": "265", "title": "Hunt for Red October, The (1990)", "genres": ["Action", "Thriller"]}, "rating": "3", "timestamp": "884310104"}
+
+2023-11-26 16:34:57,937 - INFO - Returned message: {"userId": "201", "movie": {"movieId": "86", "title": "Remains of the Day, The (1993)", "genres": ["Drama"]}, "rating": "4", "timestamp": "884111637"}
+
+2023-11-26 16:34:59,940 - INFO - Returned message: {"userId": "201", "movie": {"movieId": "222", "title": "Star Trek: First Contact (1996)", "genres": ["Action", "Adventure", "Sci-Fi"]}, "rating": "3", "timestamp": "884112201"}
+
+2023-11-26 16:35:01,943 - INFO - Returned message: {"userId": "201", "movie": {"movieId": "29", "title": "Batman Forever (1995)", "genres": ["Action", "Adventure", "Comedy", "Crime"]}, "rating": "3", "timestamp": "884141053"}
+
+2023-11-26 16:35:03,946 - INFO - Returned message: {"userId": "201", "movie": {"movieId": "387", "title": "Age of Innocence, The (1993)", "genres": ["Drama"]}, "rating": "2", "timestamp": "884140825"}
+
+2023-11-26 16:35:05,951 - INFO - Returned message: {"userId": "201", "movie": {"movieId": "144", "title": "Die Hard (1988)", "genres": ["Action", "Thriller"]}, "rating": "4", "timestamp": "884112245"}
+
+2023-11-26 16:35:07,954 - INFO - Returned message: {"userId": "201", "movie": {"movieId": "118", "title": "Twister (1996)", "genres": ["Action", "Adventure", "Thriller"]}, "rating": "1", "timestamp": "884310148"}
+
+2023-11-26 16:35:09,957 - INFO - Returned message: {"userId": "201", "movie": {"movieId": "1", "title": "Toy Story (1995)", "genres": ["Animation", "Children", "Comedy"]}, "rating": "3", "timestamp": "884113635"}
+
+2023-11-26 16:35:11,959 - INFO - Returned message: {"userId": "201", "movie": {"movieId": "546", "title": "Broken Arrow (1996)", "genres": ["Action", "Thriller"]}, "rating": "2", "timestamp": "884140891"}
+
+2023-11-26 16:35:13,963 - INFO - Returned message: {"userId": "201", "movie": {"movieId": "95", "title": "Aladdin (1992)", "genres": ["Animation", "Children", "Comedy", "Musical"]}, "rating": "3", "timestamp": "884114015"}
+
+2023-11-26 16:35:15,966 - INFO - Returned message: {"userId": "201", "movie": {"movieId": "234", "title": "Jaws (1975)", "genres": ["Action", "Horror"]}, "rating": "5", "timestamp": "884112537"}
+
+2023-11-26 16:35:17,969 - INFO - Returned message: {"userId": "201", "movie": {"movieId": "98", "title": "Silence of the Lambs, The (1991)", "genres": ["Drama", "Thriller"]}, "rating": "4", "timestamp": "884111312"}
+
+2023-11-26 16:35:19,972 - INFO - Returned message: {"userId": "201", "movie": {"movieId": "193", "title": "Right Stuff, The (1983)", "genres": ["Drama"]}, "rating": "3", "timestamp": "884140078"}
+
+2023-11-26 16:35:21,976 - INFO - Returned message: {"userId": "201", "movie": {"movieId": "603", "title": "Rear Window (1954)", "genres": ["Mystery", "Thriller"]}, "rating": "4", "timestamp": "884113924"}
+
+2023-11-26 16:35:23,979 - INFO - Returned message: {"userId": "201", "movie": {"movieId": "32", "title": "Crumb (1994)", "genres": ["Documentary"]}, "rating": "3", "timestamp": "884140049"}
+
+2023-11-26 16:35:25,982 - INFO - Returned message: {"userId": "201", "movie": {"movieId": "304", "title": "Fly Away Home (1996)", "genres": ["Adventure", "Children"]}, "rating": "2", "timestamp": "884110967"}
+
+2023-11-26 16:35:27,985 - INFO - Returned message: {"userId": "201", "movie": {"movieId": "979", "title": "Trigger Effect, The (1996)", "genres": ["Drama", "Thriller"]}, "rating": "2", "timestamp": "884114233"}
+
+2023-11-26 16:35:29,989 - INFO - Returned message: {"userId": "201", "movie": {"movieId": "201", "title": "Evil Dead II (1987)", "genres": ["Action", "Adventure", "Comedy", "Horror"]}, "rating": "4", "timestamp": "884112537"}
+
+2023-11-26 16:35:31,994 - INFO - Returned message: {"userId": "201", "movie": {"movieId": "1137", "title": "Beautiful Thing (1996)", "genres": ["Drama", "Romance"]}, "rating": "4", "timestamp": "884111830"}
+
+2023-11-26 16:35:34,009 - INFO - Returned message: {"userId": "201", "movie": {"movieId": "241", "title": "Last of the Mohicans, The (1992)", "genres": ["Action", "Romance", "War"]}, "rating": "2", "timestamp": "884112487"}
+
+2023-11-26 16:35:36,013 - INFO - Returned message: {"userId": "201", "movie": {"movieId": "4", "title": "Get Shorty (1995)", "genres": ["Action", "Comedy", "Drama"]}, "rating": "4", "timestamp": "884111830"}
+

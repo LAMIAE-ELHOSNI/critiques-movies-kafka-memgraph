@@ -9,8 +9,8 @@ logger = logging.getLogger(__name__)
 
 # Établir la connexion à Memgraph
 uri = "bolt://localhost:7687"
-username = "Fidelis"
-password = "admin"
+username = ""
+password = ""
 graph = None
 
 try:
@@ -26,9 +26,9 @@ try:
             transformed_data = {
                 "userId": data.get("userId", ""),
                 "movie": {
-                    "movieId": data.get("movieId", ""),
-                    "title": data.get("title", ""),
-                    "genres": data.get("genres", []),
+                    "movieId": data.get("movie", {}).get("movieId", ""),
+                    "title": data.get("movie", {}).get("title", ""),
+                    "genres": data.get("movie", {}).get("genres", []),
                 },
                 "rating": data.get("rating", ""),
                 "timestamp": data.get("timestamp", "")
@@ -69,7 +69,7 @@ try:
         # Configuration du consommateur Kafka
         consumer_config = {
             'bootstrap.servers': 'localhost:9092',  # Adresse du broker Kafka
-            'group.id': 'my-group',  # ID du groupe de consommateurs
+            'group.id': 'my_group',  # ID du groupe de consommateurs
             'auto.offset.reset': 'earliest'  # Commencer à consommer depuis le début du topic
         }
 
