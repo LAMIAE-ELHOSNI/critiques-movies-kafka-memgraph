@@ -41,7 +41,7 @@ LIMIT 10
 
 
 ---Recommandation System
-MATCH (u:User {id:1000})-[r:RATED]-(m:Movie)
+MATCH (u:User {id:4})-[r:RATED]-(m:Movie)
       -[other_r:RATED]-(other:User)
 WITH other.id AS other_id,
      avg(abs(r.rating-other_r.rating)) AS similarity,
