@@ -1,0 +1,63 @@
+---Test Insertion
+MATCH (user:User)-[r:RATED]-(movie:Movie)-[r1:IS_GENRE]-(g:Genre)
+RETURN user,r,movie,r1,g;
+
+---Top Films les mieux notés
+MATCH (movie:Movie)-[r:RATED]->()
+WITH AVG(r.rating) AS avg_rating
+RETURN movie.title, avg_rating
+ORDER BY avg_rating DESC
+LIMIT 10
+
+
+---Top Films avec le plus grand nombre de notes
+MATCH (movie:Movie)<-[r:RATED]-()
+RETURN movie.title, COUNT(r) AS ratingsCount
+ORDER BY ratingsCount DESC
+LIMIT 10
+
+
+---Les genres les mieux notés
+MATCH (g:Genre)<-[:IS_GENRE]-(movie:Movie)<-[r:RATED]-()
+RETURN g.name AS genre, AVG(r.rating) AS avgRating
+ORDER BY avgRating DESC
+LIMIT 5
+
+
+---Utilisateurs qui votent le plus
+MATCH (user:User)-[r:RATED]->()
+RETURN user.userId, COUNT(r) AS ratingsCount
+ORDER BY ratingsCount DESC
+LIMIT 5
+
+
+---Top 5 des films avec les genres les mieux notés :
+MATCH (g:Genre)<-[:IS_GENRE]-(movie:Movie)<-[r:RATED]-()
+WITH movie, g, AVG(r.rating) AS avgRating
+ORDER BY avgRating DESC
+WITH g, COLLECT({movie: movie.title, avgRating: avgRating}) AS moviesByGenre
+RETURN g.name AS genre, moviesByGenre[0..5] AS topMovies
+LIMIT 10
+
+
+---Recommandation System
+MATCH (u:User {id:4})-[r:RATED]-(m:Movie)
+      -[other_r:RATED]-(other:User)
+WITH other.id AS other_id,
+     avg(abs(r.rating-other_r.rating)) AS similarity,
+     count(*) AS same_movies_rated
+WHERE same_movies_rated > 2
+WITH other_id
+ORDER BY similarity
+LIMIT 10
+WITH collect(other_id) AS similar_user_set
+MATCH (some_movie:Movie)-[fellow_rate:RATED]-(fellow_user:User)
+WHERE fellow_user.id IN similar_user_set
+WITH some_movie, avg(fellow_rate.rating) AS prediction_rating
+RETURN some_movie.title AS Title, prediction_rating
+ORDER BY prediction_rating DESC;
+
+
+
+
+
